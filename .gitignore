@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+
+# IDE and System Files
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Power BI temp/backup files
+*.pbix
+*.pbix.tmp
+*backup*.pbix
