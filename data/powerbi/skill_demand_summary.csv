@@ -1,33 +1,33 @@
 skill_id,skill,job_count
-28,Reporting,11753
-6,Communication,6278
-13,Excel,6251
-18,Leadership,5887
-12,English,3539
-20,Microsoft Office,3128
-30,Sales,1974
-7,Customer Service,1968
-14,Finance,1914
-19,Logistics,1506
-5,CRM,1180
-22,Power BI,1179
-21,Network Support,857
-2,Accounting,799
-9,Data Collection,787
-10,Data Visualization,786
-31,Statistics,786
-26,Python,786
-29,SQL,786
-23,Problem Solving,786
-11,Digital Marketing,779
+28,Reporting,11803
+6,Communication,6302
+13,Excel,6276
+18,Leadership,5907
+12,English,3554
+20,Microsoft Office,3141
+7,Customer Service,1977
+30,Sales,1975
+14,Finance,1903
+19,Logistics,1512
+5,CRM,1186
+22,Power BI,1183
+21,Network Support,859
+2,Accounting,797
+10,Data Visualization,789
+9,Data Collection,789
+29,SQL,789
+26,Python,789
+23,Problem Solving,789
+31,Statistics,788
+11,Digital Marketing,782
 24,Procurement,735
+16,Graphic Design,396
+4,Adobe Photoshop,395
+17,JavaScript,395
+15,Git,395
+1,API Development,395
+3,Adobe Illustrator,395
+32,Teaching,395
 25,Project Management,395
-16,Graphic Design,395
-32,Teaching,394
-15,Git,393
-1,API Development,393
-8,Data Cleaning,393
-4,Adobe Photoshop,393
-3,Adobe Illustrator,393
-17,JavaScript,393
-27,QuickBooks,393
+8,Data Cleaning,394
+27,QuickBooks,394

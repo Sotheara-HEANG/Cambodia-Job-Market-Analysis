@@ -10,7 +10,7 @@
 section JobMarketDemand;
 
 shared ProjectRoot =
-    "D:\Documents\itc_files\Year_04_Semester_02\Data Visualization\Job_Market_Demand\job-market-analysis";
+    "d:\ITC\I4\Semester 2\Data Visualization\Project Viz\job-market-analysis";
 
 shared LoadCsv = (relativePath as text) as table =>
     let
