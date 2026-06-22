@@ -17,5 +17,6 @@ desktop.ini
 
 # Power BI temp/backup files
 *.pbix
+!Dashboard.pbix
 *.pbix.tmp
 *backup*.pbix
