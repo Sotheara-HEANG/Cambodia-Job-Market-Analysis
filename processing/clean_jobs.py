@@ -83,16 +83,84 @@ def clean_location(location: object) -> str:
 
     text = clean_text(location, default="Cambodia")
     text = re.sub(r"\s+", " ", text).strip(", ")
-    replacements = {
-        "Phnum Penh": "Phnom Penh",
-        "PP": "Phnom Penh",
-        "Siemreap": "Siem Reap",
-        "Sihanouk Ville": "Sihanoukville",
-        "Krong Preah Sihanouk": "Sihanoukville",
+    text_lower = text.lower()
+
+    if "remote" in text_lower:
+        return "Remote, Cambodia"
+    if "multiple provinces" in text_lower:
+        return "Multiple provinces, Cambodia"
+
+    mappings = {
+        "phnom penh": "Phnom Penh",
+        "phnum penh": "Phnom Penh",
+        "pp": "Phnom Penh",
+        "ppsez": "Phnom Penh",
+        "sen sok": "Phnom Penh",
+        "toul kork": "Phnom Penh",
+        "chamkarmon": "Phnom Penh",
+        "mean chey": "Phnom Penh",
+        "chbar ampov": "Phnom Penh",
+        "daun penh": "Phnom Penh",
+        "prampi makara": "Phnom Penh",
+        "boeng keng kang": "Phnom Penh",
+        "bkk": "Phnom Penh",
+        "chroy changvar": "Phnom Penh",
+        "russey keo": "Phnom Penh",
+        "prek pnov": "Phnom Penh",
+        "dangkao": "Phnom Penh",
+        "kamboul": "Phnom Penh",
+        "porsenchey": "Phnom Penh",
+        "sihanoukville": "Sihanoukville",
+        "sihanouk ville": "Sihanoukville",
+        "preah sihanouk": "Sihanoukville",
+        "sihanouk": "Sihanoukville",
+        "siem reap": "Siem Reap",
+        "siemreap": "Siem Reap",
+        "banteay meanchey": "Banteay Meanchey",
+        "poipet": "Banteay Meanchey",
+        "sisophon": "Banteay Meanchey",
+        "battambang": "Battambang",
+        "kampong cham": "Kampong Cham",
+        "kampong chhnang": "Kampong Chhnang",
+        "kampong speu": "Kampong Speu",
+        "kampong thom": "Kampong Thom",
+        "kampot": "Kampot",
+        "kandal": "Kandal",
+        "takhmao": "Kandal",
+        "preaek hour": "Kandal",
+        "kep": "Kep",
+        "koh kong": "Koh Kong",
+        "kratie": "Kratie",
+        "mondulkiri": "Mondulkiri",
+        "mondul kiri": "Mondulkiri",
+        "oddar meanchey": "Oddar Meanchey",
+        "oudor meanchey": "Oddar Meanchey",
+        "otdar meanchey": "Oddar Meanchey",
+        "pailin": "Pailin",
+        "preah vihear": "Preah Vihear",
+        "prey veng": "Prey Veng",
+        "pursat": "Pursat",
+        "ratanakiri": "Ratanakiri",
+        "rotanakiri": "Ratanakiri",
+        "stung treng": "Stung Treng",
+        "svay rieng": "Svay Rieng",
+        "takeo": "Takeo",
+        "tbong khmum": "Tbong Khmum",
+        "tboung khmum": "Tbong Khmum",
     }
-    for original, replacement in replacements.items():
-        text = re.sub(rf"\b{re.escape(original)}\b", replacement, text, flags=re.IGNORECASE)
-    return text or "Cambodia"
+
+    earliest = len(text)
+    matched = None
+    for kw, standard in mappings.items():
+        idx = text_lower.find(kw)
+        if idx != -1 and idx < earliest:
+            earliest = idx
+            matched = standard
+
+    if matched:
+        return matched
+
+    return "Cambodia"
 
 
 def infer_job_category(title: str, description: str, existing_value: object) -> str:

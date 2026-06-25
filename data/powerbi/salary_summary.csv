@@ -1,25 +1,23 @@
 summary_type,category,job_count,salary_min_avg,salary_max_avg,salary_avg
-job_category,Other,21,1333.3333333333333,1641.6666666666667,1487.5
-job_category,Business Administration,791,698.2151898734177,1495.759493670886,1096.987341772152
-job_category,Information Technology,1190,672.3628691983122,1444.0928270042193,1058.2278481012659
-job_category,NGO / Development,797,660.6045340050377,1418.0100755667506,1039.3073047858943
-job_category,Operations,382,596.7303664921466,1097.4607329842931,847.0955497382199
-job_category,Education / Training,784,484.6173469387755,1100.6377551020407,792.6275510204082
-job_category,Accounting / Finance,795,534.0530303030303,1044.078282828283,789.0656565656566
-job_category,Hospitality / Tourism,792,504.55696202531647,1030.379746835443,767.4683544303797
-job_category,Legal / Compliance,394,464.16243654822335,926.9035532994924,695.5329949238578
-job_category,Procurement,387,458.83720930232556,917.5968992248062,688.2170542635658
-job_category,Healthcare,790,400.0253164556962,900.0759493670886,650.0506329113924
-job_category,Creative / Design,396,400.0,900.0,650.0
-job_category,Logistics / Supply Chain,790,402.8643852978454,832.1546261089987,617.5095057034221
-job_category,Human Resources,402,400.90909090909093,789.8232323232323,595.3661616161617
-job_category,Manufacturing,790,380.73417721518985,807.4303797468355,594.0822784810126
-job_category,Sales / Marketing,789,354.7275031685678,804.1191381495564,579.4233206590621
-job_category,Banking / Finance,796,354.96831432192647,763.4600760456274,559.214195183777
-job_category,Customer Service,396,252.95454545454547,502.52525252525254,377.739898989899
-job_category,Administration,414,258.57142857142856,461.70426065162906,360.1378446115288
-job_title,"General Manager @ Elite Travel & Tours Co., Ltd.",1,4000.0,5000.0,4500.0
-job_title,Brand Manager @ Mixue Ice Cream & Tea,1,2000.0,2000.0,2000.0
+job_category,Business Administration,788,697.9516539440203,1495.1908396946565,1096.5712468193385
+job_category,Information Technology,1189,672.2457627118644,1443.8559322033898,1058.050847457627
+job_category,NGO / Development,795,660.479797979798,1417.7272727272727,1039.1035353535353
+job_category,Operations,382,599.651832460733,1098.2460732984293,848.9489528795812
+job_category,Education / Training,783,484.5710627400768,1100.4353393085787,792.5032010243278
+job_category,Accounting / Finance,800,533.8765743073047,1041.750629722922,787.8136020151134
+job_category,Hospitality / Tourism,789,504.5082592121982,1030.304955527319,767.4066073697586
+job_category,Other,29,600.0,800.0,700.0
+job_category,Legal / Compliance,392,464.26020408163265,927.1428571428571,695.7015306122449
+job_category,Procurement,385,458.90909090909093,917.7142857142857,688.3116883116883
+job_category,Creative / Design,394,400.10178117048343,900.2544529262086,650.178117048346
+job_category,Healthcare,786,400.06361323155215,900.1653944020356,650.1145038167939
+job_category,Logistics / Supply Chain,786,402.8789808917197,832.1656050955414,617.5222929936306
+job_category,Human Resources,401,400.7848101265823,789.0886075949367,594.9367088607595
+job_category,Manufacturing,786,380.40712468193385,808.0916030534352,594.2493638676845
+job_category,Sales / Marketing,791,357.2370088719899,806.0963244613434,581.6666666666666
+job_category,Banking / Finance,791,355.1399491094148,763.8931297709923,559.5165394402036
+job_category,Customer Service,394,252.7735368956743,502.64631043257,377.70992366412213
+job_category,Administration,416,258.4924623115578,461.5326633165829,360.01256281407035
 job_title,Corporate Business Development Manager - Business Support,3,953.3333333333334,2113.3333333333335,1533.3333333333333
 job_title,Corporate Business Development Manager - Financial Services,3,953.3333333333334,2113.3333333333335,1533.3333333333333
 job_title,Corporate Business Development Manager - Quality,3,953.3333333333334,2113.3333333333335,1533.3333333333333
@@ -36,17 +34,18 @@ job_title,Corporate Business Development Manager Coordinator - Compliance,4,937.
 job_title,Corporate Business Development Manager Coordinator - Retail,4,937.5,2080.0,1508.75
 job_title,Senior Business Development Manager Officer - Sme,4,937.5,2080.0,1508.75
 job_title,Senior Business Development Manager Representative - Branch Network,4,937.5,2080.0,1508.75
+job_title,Head Of Operations @ Seenergy Capital,1,1500.0,1500.0,1500.0
 job_title,Corporate Business Development Manager - Logistics,3,923.3333333333334,2046.6666666666667,1485.0
 job_title,Corporate Business Development Manager - Product,3,923.3333333333334,2046.6666666666667,1485.0
 job_title,Corporate Business Development Manager - Technology,3,923.3333333333334,2046.6666666666667,1485.0
 job_title,Corporate Business Development Manager Coordinator - Hospitality,3,923.3333333333334,2046.6666666666667,1485.0
-job_title,Corporate Business Development Manager Coordinator - Training,3,923.3333333333334,2046.6666666666667,1485.0
 job_title,Senior Business Development Manager Officer - Field Operations,3,923.3333333333334,2046.6666666666667,1485.0
 job_title,Senior Business Development Manager Officer - Head Office,3,923.3333333333334,2046.6666666666667,1485.0
 job_title,Senior Business Development Manager Officer - Healthcare,3,923.3333333333334,2046.6666666666667,1485.0
 job_title,Senior Business Development Manager Representative - Development Programs,3,923.3333333333334,2046.6666666666667,1485.0
 job_title,Senior Business Development Manager Representative - Procurement,3,923.3333333333334,2046.6666666666667,1485.0
 job_title,Senior Business Development Manager Representative - Service Delivery,3,923.3333333333334,2046.6666666666667,1485.0
+job_title,Junior Software Developer - Training,2,910.0,2045.0,1477.5
 job_title,Corporate Business Development Manager - Customer Experience,4,915.0,2030.0,1472.5
 job_title,Corporate Business Development Manager - Regional Office,2,915.0,2030.0,1472.5
 job_title,Corporate Business Development Manager Coordinator - Sme,4,915.0,2030.0,1472.5
@@ -69,6 +68,7 @@ job_title,Corporate Business Development Manager - Retail,4,905.0,2005.0,1455.0
 job_title,Corporate Business Development Manager Coordinator - Operations,4,905.0,2005.0,1455.0
 job_title,Senior Business Development Manager Officer - Branch Network,4,905.0,2005.0,1455.0
 job_title,Senior Business Development Manager Representative - Corporate,4,905.0,2005.0,1455.0
+job_title,Senior Business Development Manager Officer - Training,2,895.0,1980.0,1437.5
 job_title,Corporate Business Development Manager - Field Operations,3,893.3333333333334,1980.0,1436.6666666666667
 job_title,Corporate Business Development Manager - Head Office,3,893.3333333333334,1980.0,1436.6666666666667
 job_title,Corporate Business Development Manager - Healthcare,3,893.3333333333334,1980.0,1436.6666666666667
@@ -76,7 +76,6 @@ job_title,Corporate Business Development Manager Coordinator - Development Progr
 job_title,Corporate Business Development Manager Coordinator - Procurement,3,893.3333333333334,1980.0,1436.6666666666667
 job_title,Corporate Business Development Manager Coordinator - Service Delivery,3,893.3333333333334,1980.0,1436.6666666666667
 job_title,Senior Business Development Manager Officer - Hospitality,3,893.3333333333334,1980.0,1436.6666666666667
-job_title,Senior Business Development Manager Officer - Training,3,893.3333333333334,1980.0,1436.6666666666667
 job_title,Senior Business Development Manager Representative - Community Programs,3,893.3333333333334,1980.0,1436.6666666666667
 job_title,Senior Business Development Manager Representative - Manufacturing,3,893.3333333333334,1980.0,1436.6666666666667
 job_title,Senior Business Development Manager Representative - Partnerships,3,893.3333333333334,1980.0,1436.6666666666667
@@ -105,7 +104,6 @@ job_title,Senior Business Development Manager Representative - Head Office,3,876
 job_title,Senior Business Development Manager Representative - Healthcare,3,876.6666666666666,1946.6666666666667,1411.6666666666667
 job_title,Corporate Business Development Manager Coordinator,11,876.3636363636364,1943.6363636363637,1410.0
 job_title,Junior Software Developer - Hospitality,3,863.3333333333334,1940.0,1401.6666666666667
-job_title,Junior Software Developer - Training,3,863.3333333333334,1940.0,1401.6666666666667
 job_title,Junior Software Developer Associate - Community Programs,3,863.3333333333334,1940.0,1401.6666666666667
 job_title,Junior Software Developer Associate - Manufacturing,3,863.3333333333334,1940.0,1401.6666666666667
 job_title,Junior Software Developer Associate - Partnerships,3,863.3333333333334,1940.0,1401.6666666666667
@@ -117,6 +115,7 @@ job_title,Provincial Software Developer Supervisor - Regional Office,3,863.33333
 job_title,Provincial Software Developer Supervisor - Reporting,3,863.3333333333334,1940.0,1401.6666666666667
 job_title,Corporate Business Development Manager - Operations,4,870.0,1930.0,1400.0
 job_title,Corporate Business Development Manager Coordinator - Customer Experience,4,870.0,1930.0,1400.0
+job_title,Corporate Business Development Manager Coordinator - Training,2,870.0,1930.0,1400.0
 job_title,Senior Business Development Manager Officer - Corporate,4,870.0,1930.0,1400.0
 job_title,Senior Business Development Manager Representative - Digital,4,870.0,1930.0,1400.0
 job_title,Corporate Business Development Manager - Hospitality,3,863.3333333333334,1913.3333333333333,1388.3333333333333
@@ -213,7 +212,6 @@ job_title,Junior Software Developer Associate - Development Programs,3,796.66666
 job_title,Junior Software Developer Associate - Procurement,3,796.6666666666666,1790.0,1293.3333333333333
 job_title,Junior Software Developer Associate - Service Delivery,3,796.6666666666666,1790.0,1293.3333333333333
 job_title,Provincial Software Developer Specialist - Hospitality,3,796.6666666666666,1790.0,1293.3333333333333
-job_title,Provincial Software Developer Specialist - Training,3,796.6666666666666,1790.0,1293.3333333333333
 job_title,Provincial Software Developer Supervisor - Community Programs,3,796.6666666666666,1790.0,1293.3333333333333
 job_title,Provincial Software Developer Supervisor - Manufacturing,3,796.6666666666666,1790.0,1293.3333333333333
 job_title,Provincial Software Developer Supervisor - Partnerships,3,796.6666666666666,1790.0,1293.3333333333333
@@ -233,12 +231,14 @@ job_title,Provincial Software Developer Specialist - Quality,3,783.3333333333334
 job_title,Provincial Software Developer Supervisor - Field Operations,3,783.3333333333334,1760.0,1271.6666666666667
 job_title,Provincial Software Developer Supervisor - Head Office,3,783.3333333333334,1760.0,1271.6666666666667
 job_title,Provincial Software Developer Supervisor - Healthcare,3,783.3333333333334,1760.0,1271.6666666666667
+job_title,"Digital Marketing, Communications, Field Marketing Manager @ Branch Of Panasonic Asia Pacific Pte. Ltd.",1,1000.0,1500.0,1250.0
 job_title,Junior Software Developer - Customer Experience,4,770.0,1730.0,1250.0
 job_title,Junior Software Developer - Regional Office,2,770.0,1730.0,1250.0
 job_title,Junior Software Developer Associate - Sme,4,770.0,1730.0,1250.0
 job_title,Provincial Software Developer Specialist - Digital,4,770.0,1730.0,1250.0
 job_title,Provincial Software Developer Supervisor - Compliance,4,770.0,1730.0,1250.0
 job_title,Provincial Software Developer Supervisor - Retail,4,770.0,1730.0,1250.0
+job_title,"Sales Manager @ Nippon Express (Cambodia) Co., Ltd",1,1000.0,1500.0,1250.0
 job_title,Junior Software Developer - Business Support,3,756.6666666666666,1700.0,1228.3333333333333
 job_title,Junior Software Developer - Financial Services,3,756.6666666666666,1700.0,1228.3333333333333
 job_title,Junior Software Developer - Quality,3,756.6666666666666,1700.0,1228.3333333333333
@@ -250,6 +250,7 @@ job_title,Provincial Software Developer Specialist - Product,3,756.6666666666666
 job_title,Provincial Software Developer Specialist - Technology,3,756.6666666666666,1700.0,1228.3333333333333
 job_title,Provincial Software Developer Supervisor - Hospitality,3,756.6666666666666,1700.0,1228.3333333333333
 job_title,Provincial Software Developer Supervisor - Training,3,756.6666666666666,1700.0,1228.3333333333333
+job_title,Provincial Software Developer Specialist - Training,2,750.0,1685.0,1217.5
 job_title,Assistant Monitoring And Evaluation Officer - Regional Office,2,760.0,1630.0,1195.0
 job_title,Assistant Monitoring And Evaluation Officer - Community Programs,3,753.3333333333334,1613.3333333333333,1183.3333333333333
 job_title,Assistant Monitoring And Evaluation Officer - Manufacturing,3,753.3333333333334,1613.3333333333333,1183.3333333333333
@@ -474,7 +475,6 @@ job_title,Assistant Monitoring And Evaluation Officer Executive - Development Pr
 job_title,Assistant Monitoring And Evaluation Officer Executive - Procurement,3,660.0,1413.3333333333333,1036.6666666666667
 job_title,Assistant Monitoring And Evaluation Officer Executive - Service Delivery,3,660.0,1413.3333333333333,1036.6666666666667
 job_title,Field Monitoring And Evaluation Officer - Hospitality,3,660.0,1413.3333333333333,1036.6666666666667
-job_title,Field Monitoring And Evaluation Officer - Training,3,660.0,1413.3333333333333,1036.6666666666667
 job_title,Field Monitoring And Evaluation Officer Representative - Community Programs,3,660.0,1413.3333333333333,1036.6666666666667
 job_title,Field Monitoring And Evaluation Officer Representative - Manufacturing,3,660.0,1413.3333333333333,1036.6666666666667
 job_title,Field Monitoring And Evaluation Officer Representative - Partnerships,3,660.0,1413.3333333333333,1036.6666666666667
@@ -488,7 +488,6 @@ job_title,Branch Project Coordinator Supervisor - Customer Experience,4,650.0,14
 job_title,Project Coordinator - Branch Network,4,650.0,1402.5,1026.25
 job_title,Project Coordinator Associate - Corporate,4,650.0,1402.5,1026.25
 job_title,Data Analyst Specialist - Hospitality,3,646.6666666666666,1386.6666666666667,1016.6666666666666
-job_title,Data Analyst Specialist - Training,3,646.6666666666666,1386.6666666666667,1016.6666666666666
 job_title,Data Analyst Supervisor - Community Programs,3,646.6666666666666,1386.6666666666667,1016.6666666666666
 job_title,Data Analyst Supervisor - Manufacturing,3,646.6666666666666,1386.6666666666667,1016.6666666666666
 job_title,Data Analyst Supervisor - Partnerships,3,646.6666666666666,1386.6666666666667,1016.6666666666666
@@ -516,7 +515,9 @@ job_title,Project Coordinator - Compliance,4,635.0,1370.0,1002.5
 job_title,Project Coordinator - Retail,4,635.0,1370.0,1002.5
 job_title,Project Coordinator Associate - Operations,4,635.0,1370.0,1002.5
 job_title,Assistant CEO & Store Manager @ Confidential,1,800.0,1200.0,1000.0
-job_title,"Senior Marketing Executive @ Elite Travel & Tours Co., Ltd.",1,800.0,1200.0,1000.0
+job_title,"Custom Clearance Deputy Manager @ Aeon Mall (Cambodia) Logi Plus Co.,",1,800.0,1200.0,1000.0
+job_title,Korean Desk Client Relations @ Ly Hour Sbi Insurance Plc.,1,1000.0,1000.0,1000.0
+job_title,"Qc Inspector @ Banyan (Cambodia) Co., Ltd. (Samsonite Factory)",1,800.0,1200.0,1000.0
 job_title,Branch Project Coordinator Specialist - Field Operations,3,630.0,1360.0,995.0
 job_title,Branch Project Coordinator Specialist - Head Office,3,630.0,1360.0,995.0
 job_title,Branch Project Coordinator Specialist - Healthcare,3,630.0,1360.0,995.0
@@ -542,6 +543,8 @@ job_title,Provincial Finance Analyst - Education,3,660.0,1320.0,990.0
 job_title,Provincial Finance Analyst Coordinator - Logistics,3,660.0,1320.0,990.0
 job_title,Provincial Finance Analyst Coordinator - Product,3,660.0,1320.0,990.0
 job_title,Provincial Finance Analyst Coordinator - Technology,3,660.0,1320.0,990.0
+job_title,Field Teacher Specialist - Training,2,575.0,1390.0,982.5
+job_title,Lead Restaurant Manager Coordinator - Training,2,655.0,1310.0,982.5
 job_title,Branch Project Coordinator Specialist - Compliance,4,620.0,1337.5,978.75
 job_title,Branch Project Coordinator Specialist - Retail,4,620.0,1337.5,978.75
 job_title,Branch Project Coordinator Supervisor - Operations,4,620.0,1337.5,978.75
@@ -580,12 +583,12 @@ job_title,Restaurant Manager Officer - Service Delivery,3,650.0,1300.0,975.0
 job_title,Restaurant Manager Representative - Education,3,650.0,1300.0,975.0
 job_title,Restaurant Manager Representative - Regional Office,3,650.0,1300.0,975.0
 job_title,Restaurant Manager Representative - Reporting,3,650.0,1300.0,975.0
+job_title,Field Monitoring And Evaluation Officer - Training,2,620.0,1325.0,972.5
 job_title,Branch Project Coordinator Specialist - Corporate,4,612.5,1320.0,966.25
 job_title,Branch Project Coordinator Supervisor - Digital,4,612.5,1320.0,966.25
 job_title,Project Coordinator - Operations,4,612.5,1320.0,966.25
 job_title,Project Coordinator Associate - Customer Experience,4,612.5,1320.0,966.25
 job_title,Branch Project Coordinator Specialist - Hospitality,3,610.0,1316.6666666666667,963.3333333333334
-job_title,Branch Project Coordinator Specialist - Training,3,610.0,1316.6666666666667,963.3333333333334
 job_title,Branch Project Coordinator Supervisor - Community Programs,3,610.0,1316.6666666666667,963.3333333333334
 job_title,Branch Project Coordinator Supervisor - Manufacturing,3,610.0,1316.6666666666667,963.3333333333334
 job_title,Branch Project Coordinator Supervisor - Partnerships,3,610.0,1316.6666666666667,963.3333333333334
@@ -615,8 +618,10 @@ job_title,Branch Project Coordinator Supervisor - Branch Network,4,605.0,1305.0,
 job_title,Project Coordinator - Digital,4,605.0,1305.0,955.0
 job_title,Project Coordinator Associate - Compliance,4,605.0,1305.0,955.0
 job_title,Project Coordinator Associate - Retail,4,605.0,1305.0,955.0
+job_title,Data Analyst Specialist - Training,2,605.0,1300.0,952.5
 job_title,Junior Finance Analyst Officer - Customer Experience,4,635.0,1270.0,952.5
 job_title,Junior Finance Analyst Officer - Regional Office,2,635.0,1270.0,952.5
+job_title,Junior Finance Analyst Officer - Training,2,635.0,1270.0,952.5
 job_title,Junior Finance Analyst Representative - Sme,4,635.0,1270.0,952.5
 job_title,Provincial Finance Analyst - Corporate,4,635.0,1270.0,952.5
 job_title,Provincial Finance Analyst - Reporting,4,635.0,1270.0,952.5
@@ -673,7 +678,6 @@ job_title,Assistant Teacher Associate - Development Programs,3,546.6666666666666
 job_title,Assistant Teacher Associate - Procurement,3,546.6666666666666,1320.0,933.3333333333334
 job_title,Assistant Teacher Associate - Service Delivery,3,546.6666666666666,1320.0,933.3333333333334
 job_title,Field Teacher Specialist - Hospitality,3,546.6666666666666,1320.0,933.3333333333334
-job_title,Field Teacher Specialist - Training,3,546.6666666666666,1320.0,933.3333333333334
 job_title,Field Teacher Supervisor - Community Programs,3,546.6666666666666,1320.0,933.3333333333334
 job_title,Field Teacher Supervisor - Manufacturing,3,546.6666666666666,1320.0,933.3333333333334
 job_title,Field Teacher Supervisor - Partnerships,3,546.6666666666666,1320.0,933.3333333333334
@@ -696,7 +700,6 @@ job_title,Lead Restaurant Manager - Logistics,3,620.0,1240.0,930.0
 job_title,Lead Restaurant Manager - Product,3,620.0,1240.0,930.0
 job_title,Lead Restaurant Manager - Technology,3,620.0,1240.0,930.0
 job_title,Lead Restaurant Manager Coordinator - Hospitality,3,620.0,1240.0,930.0
-job_title,Lead Restaurant Manager Coordinator - Training,3,620.0,1240.0,930.0
 job_title,Project Coordinator - Regional Office,2,590.0,1270.0,930.0
 job_title,Provincial Finance Analyst,7,620.0,1240.0,930.0
 job_title,Provincial Finance Analyst - Logistics,3,620.0,1240.0,930.0
@@ -706,7 +709,7 @@ job_title,Provincial Finance Analyst - Technology,3,620.0,1240.0,930.0
 job_title,Provincial Finance Analyst Coordinator,7,620.0,1240.0,930.0
 job_title,Provincial Finance Analyst Coordinator - Customer Experience,4,620.0,1240.0,930.0
 job_title,Provincial Finance Analyst Coordinator - Hospitality,3,620.0,1240.0,930.0
-job_title,Provincial Finance Analyst Coordinator - Training,3,620.0,1240.0,930.0
+job_title,Provincial Finance Analyst Coordinator - Training,2,620.0,1240.0,930.0
 job_title,Restaurant Manager Officer - Field Operations,3,620.0,1240.0,930.0
 job_title,Restaurant Manager Officer - Head Office,3,620.0,1240.0,930.0
 job_title,Restaurant Manager Officer - Healthcare,3,620.0,1240.0,930.0
@@ -733,6 +736,7 @@ job_title,Branch Project Coordinator Specialist - Product,3,580.0,1250.0,915.0
 job_title,Branch Project Coordinator Specialist - Technology,3,580.0,1250.0,915.0
 job_title,Branch Project Coordinator Supervisor - Hospitality,3,580.0,1250.0,915.0
 job_title,Branch Project Coordinator Supervisor - Training,3,580.0,1250.0,915.0
+job_title,Field Operations Supervisor Coordinator - Training,2,645.0,1185.0,915.0
 job_title,Junior Finance Analyst Officer - Education,3,610.0,1220.0,915.0
 job_title,Junior Finance Analyst Officer - Reporting,3,610.0,1220.0,915.0
 job_title,Junior Finance Analyst Representative - Logistics,3,610.0,1220.0,915.0
@@ -770,12 +774,12 @@ job_title,Restaurant Manager Representative - Logistics,3,610.0,1220.0,915.0
 job_title,Restaurant Manager Representative - Operations,4,610.0,1220.0,915.0
 job_title,Restaurant Manager Representative - Product,3,610.0,1220.0,915.0
 job_title,Restaurant Manager Representative - Technology,3,610.0,1220.0,915.0
+job_title,Branch Project Coordinator Specialist - Training,2,575.0,1240.0,907.5
 job_title,Junior Finance Analyst Officer - Operations,4,605.0,1210.0,907.5
 job_title,Junior Finance Analyst Representative - Customer Experience,4,605.0,1210.0,907.5
 job_title,Provincial Finance Analyst - Branch Network,4,605.0,1210.0,907.5
 job_title,Provincial Finance Analyst Coordinator - Corporate,4,605.0,1210.0,907.5
 job_title,Assistant Teacher - Hospitality,3,533.3333333333334,1280.0,906.6666666666666
-job_title,Assistant Teacher - Training,3,533.3333333333334,1280.0,906.6666666666666
 job_title,Assistant Teacher Associate - Community Programs,3,533.3333333333334,1280.0,906.6666666666666
 job_title,Assistant Teacher Associate - Manufacturing,3,533.3333333333334,1280.0,906.6666666666666
 job_title,Assistant Teacher Associate - Partnerships,3,533.3333333333334,1280.0,906.6666666666666
@@ -800,8 +804,8 @@ job_title,Lead Restaurant Manager - Operations,4,602.5,1205.0,903.75
 job_title,Lead Restaurant Manager Coordinator - Customer Experience,4,602.5,1205.0,903.75
 job_title,Restaurant Manager Officer - Corporate,4,602.5,1205.0,903.75
 job_title,Restaurant Manager Representative - Digital,4,602.5,1205.0,903.75
+job_title,"Accounting Supervisor @ Ajinomoto (Cambodia) Co., Ltd.",1,800.0,1000.0,900.0
 job_title,Junior Finance Analyst Officer - Hospitality,3,600.0,1200.0,900.0
-job_title,Junior Finance Analyst Officer - Training,3,600.0,1200.0,900.0
 job_title,Junior Finance Analyst Representative - Community Programs,3,600.0,1200.0,900.0
 job_title,Junior Finance Analyst Representative - Manufacturing,3,600.0,1200.0,900.0
 job_title,Junior Finance Analyst Representative - Partnerships,3,600.0,1200.0,900.0
@@ -818,7 +822,6 @@ job_title,Provincial Finance Analyst Coordinator - Development Programs,3,600.0,
 job_title,Provincial Finance Analyst Coordinator - Procurement,3,600.0,1200.0,900.0
 job_title,Provincial Finance Analyst Coordinator - Service Delivery,3,600.0,1200.0,900.0
 job_title,Restaurant Manager Officer - Hospitality,3,600.0,1200.0,900.0
-job_title,Restaurant Manager Officer - Training,3,600.0,1200.0,900.0
 job_title,Restaurant Manager Representative - Community Programs,3,600.0,1200.0,900.0
 job_title,Restaurant Manager Representative - Manufacturing,3,600.0,1200.0,900.0
 job_title,Restaurant Manager Representative - Partnerships,3,600.0,1200.0,900.0
@@ -934,7 +937,6 @@ job_title,Field Operations Supervisor - Logistics,3,610.0,1120.0,865.0
 job_title,Field Operations Supervisor - Product,3,610.0,1120.0,865.0
 job_title,Field Operations Supervisor - Technology,3,610.0,1120.0,865.0
 job_title,Field Operations Supervisor Coordinator - Hospitality,3,610.0,1120.0,865.0
-job_title,Field Operations Supervisor Coordinator - Training,3,610.0,1120.0,865.0
 job_title,Assistant Teacher - Logistics,3,503.3333333333333,1220.0,861.6666666666666
 job_title,Assistant Teacher - Product,3,503.3333333333333,1220.0,861.6666666666666
 job_title,Assistant Teacher - Technology,3,503.3333333333333,1220.0,861.6666666666666
@@ -952,6 +954,7 @@ job_title,Assistant Operations Supervisor Representative - Sme,4,607.5,1115.0,86
 job_title,Field Operations Supervisor - Corporate,4,607.5,1115.0,861.25
 job_title,Field Operations Supervisor - Reporting,4,607.5,1115.0,861.25
 job_title,Field Operations Supervisor Coordinator - Digital,4,607.5,1115.0,861.25
+job_title,Assistant Teacher - Training,2,505.0,1210.0,857.5
 job_title,Assistant Teacher - Customer Experience,4,500.0,1210.0,855.0
 job_title,Assistant Teacher - Regional Office,2,500.0,1210.0,855.0
 job_title,Assistant Teacher Associate - Sme,4,500.0,1210.0,855.0
@@ -998,12 +1001,12 @@ job_title,Field Teacher Supervisor - Logistics,3,500.0,1200.0,850.0
 job_title,Field Teacher Supervisor - Product,3,500.0,1200.0,850.0
 job_title,Field Teacher Supervisor - Technology,3,500.0,1200.0,850.0
 job_title,Restaurant Manager Officer - Regional Office,2,565.0,1130.0,847.5
+job_title,Restaurant Manager Officer - Training,2,565.0,1130.0,847.5
 job_title,Assistant Operations Supervisor Representative,7,595.7142857142857,1092.857142857143,844.2857142857143
 job_title,Assistant Operations Supervisor Officer - Corporate,4,592.5,1085.0,838.75
 job_title,Assistant Operations Supervisor Representative - Digital,4,592.5,1085.0,838.75
 job_title,Field Operations Supervisor Coordinator - Customer Experience,4,592.5,1085.0,838.75
 job_title,Assistant Operations Supervisor Officer - Hospitality,3,590.0,1080.0,835.0
-job_title,Assistant Operations Supervisor Officer - Training,3,590.0,1080.0,835.0
 job_title,Assistant Operations Supervisor Representative - Community Programs,3,590.0,1080.0,835.0
 job_title,Assistant Operations Supervisor Representative - Manufacturing,3,590.0,1080.0,835.0
 job_title,Assistant Operations Supervisor Representative - Partnerships,3,590.0,1080.0,835.0
@@ -1077,7 +1080,7 @@ job_title,Regional Executive Assistant Coordinator - Field Operations,3,536.6666
 job_title,Regional Executive Assistant Coordinator - Head Office,3,536.6666666666666,1076.6666666666667,806.6666666666666
 job_title,Regional Executive Assistant Coordinator - Healthcare,3,536.6666666666666,1076.6666666666667,806.6666666666666
 job_title,"Human Resources Supervisor @ Ajinomoto (Cambodia) Co., Ltd.",1,800.0,800.0,800.0
-job_title,"Japanese Translator @ Heiko Asia (Cambodia) Co., Ltd.",1,800.0,800.0,800.0
+job_title,"Senior Tax & Accountant @ Jp-Cam Jinzai Consulting Co., Ltd",1,600.0,1000.0,800.0
 job_title,Corporate IT Support Officer - Field Operations,3,533.3333333333334,1063.3333333333333,798.3333333333334
 job_title,Corporate IT Support Officer - Head Office,3,533.3333333333334,1063.3333333333333,798.3333333333334
 job_title,Corporate IT Support Officer - Healthcare,3,533.3333333333334,1063.3333333333333,798.3333333333334
@@ -1088,7 +1091,6 @@ job_title,Senior IT Support Officer - Logistics,3,533.3333333333334,1063.3333333
 job_title,Senior IT Support Officer - Product,3,533.3333333333334,1063.3333333333333,798.3333333333334
 job_title,Senior IT Support Officer - Technology,3,533.3333333333334,1063.3333333333333,798.3333333333334
 job_title,Senior IT Support Officer Coordinator - Hospitality,3,533.3333333333334,1063.3333333333333,798.3333333333334
-job_title,Senior IT Support Officer Coordinator - Training,3,533.3333333333334,1063.3333333333333,798.3333333333334
 job_title,Assistant Operations Supervisor Officer - Logistics,3,560.0,1030.0,795.0
 job_title,Assistant Operations Supervisor Officer - Product,3,560.0,1030.0,795.0
 job_title,Assistant Operations Supervisor Officer - Technology,3,560.0,1030.0,795.0
@@ -1111,6 +1113,7 @@ job_title,Senior IT Support Officer - Customer Experience,4,525.0,1055.0,790.0
 job_title,Senior IT Support Officer - Regional Office,2,525.0,1055.0,790.0
 job_title,Senior IT Support Officer Coordinator - Sme,4,525.0,1055.0,790.0
 job_title,Assistant Operations Supervisor Officer - Regional Office,2,555.0,1020.0,787.5
+job_title,Assistant Operations Supervisor Officer - Training,2,555.0,1015.0,785.0
 job_title,Corporate IT Support Officer - Education,3,520.0,1046.6666666666667,783.3333333333334
 job_title,Corporate IT Support Officer - Reporting,3,520.0,1046.6666666666667,783.3333333333334
 job_title,Corporate IT Support Officer Associate - Logistics,3,520.0,1046.6666666666667,783.3333333333334
@@ -1136,7 +1139,6 @@ job_title,Regional Executive Assistant - Logistics,3,520.0,1043.3333333333333,78
 job_title,Regional Executive Assistant - Product,3,520.0,1043.3333333333333,781.6666666666666
 job_title,Regional Executive Assistant - Technology,3,520.0,1043.3333333333333,781.6666666666666
 job_title,Regional Executive Assistant Coordinator - Hospitality,3,520.0,1043.3333333333333,781.6666666666666
-job_title,Regional Executive Assistant Coordinator - Training,3,520.0,1043.3333333333333,781.6666666666666
 job_title,Branch Medical Sales Representative - Field Operations,3,483.3333333333333,1076.6666666666667,780.0
 job_title,Branch Medical Sales Representative - Head Office,3,483.3333333333333,1076.6666666666667,780.0
 job_title,Branch Medical Sales Representative - Healthcare,3,483.3333333333333,1076.6666666666667,780.0
@@ -1155,7 +1157,6 @@ job_title,Regional Executive Assistant - Customer Experience,4,515.0,1035.0,775.
 job_title,Regional Executive Assistant - Regional Office,2,515.0,1035.0,775.0
 job_title,Regional Executive Assistant Coordinator - Sme,4,515.0,1035.0,775.0
 job_title,Corporate IT Support Officer - Hospitality,3,516.6666666666666,1030.0,773.3333333333334
-job_title,Corporate IT Support Officer - Training,3,516.6666666666666,1030.0,773.3333333333334
 job_title,Corporate IT Support Officer Associate - Community Programs,3,516.6666666666666,1030.0,773.3333333333334
 job_title,Corporate IT Support Officer Associate - Manufacturing,3,516.6666666666666,1030.0,773.3333333333334
 job_title,Corporate IT Support Officer Associate - Partnerships,3,516.6666666666666,1030.0,773.3333333333334
@@ -1165,6 +1166,7 @@ job_title,Senior IT Support Officer - Healthcare,3,516.6666666666666,1030.0,773.
 job_title,Senior IT Support Officer Coordinator - Development Programs,3,516.6666666666666,1030.0,773.3333333333334
 job_title,Senior IT Support Officer Coordinator - Procurement,3,516.6666666666666,1030.0,773.3333333333334
 job_title,Senior IT Support Officer Coordinator - Service Delivery,3,516.6666666666666,1030.0,773.3333333333334
+job_title,Corporate IT Support Officer - Training,2,515.0,1030.0,772.5
 job_title,Senior IT Support Officer,7,514.2857142857143,1030.0,772.1428571428571
 job_title,Senior IT Support Officer Coordinator,7,514.2857142857143,1030.0,772.1428571428571
 job_title,Corporate IT Support Officer - Customer Experience,4,512.5,1030.0,771.25
@@ -1211,8 +1213,8 @@ job_title,Senior IT Support Officer - Education,3,503.3333333333333,1013.3333333
 job_title,Senior IT Support Officer Coordinator - Logistics,3,503.3333333333333,1013.3333333333334,758.3333333333334
 job_title,Senior IT Support Officer Coordinator - Product,3,503.3333333333333,1013.3333333333334,758.3333333333334
 job_title,Senior IT Support Officer Coordinator - Technology,3,503.3333333333333,1013.3333333333334,758.3333333333334
+job_title,Executive Assistant Officer - Training,2,505.0,1010.0,757.5
 job_title,Executive Assistant Officer - Hospitality,3,503.3333333333333,1010.0,756.6666666666666
-job_title,Executive Assistant Officer - Training,3,503.3333333333333,1010.0,756.6666666666666
 job_title,Executive Assistant Representative - Community Programs,3,503.3333333333333,1010.0,756.6666666666666
 job_title,Executive Assistant Representative - Manufacturing,3,503.3333333333333,1010.0,756.6666666666666
 job_title,Executive Assistant Representative - Partnerships,3,503.3333333333333,1010.0,756.6666666666666
@@ -1243,6 +1245,7 @@ job_title,Medical Sales Representative - Quality,3,466.6666666666667,1043.333333
 job_title,Medical Sales Representative Executive - Field Operations,3,466.6666666666667,1043.3333333333333,755.0
 job_title,Medical Sales Representative Executive - Head Office,3,466.6666666666667,1043.3333333333333,755.0
 job_title,Medical Sales Representative Executive - Healthcare,3,466.6666666666667,1043.3333333333333,755.0
+job_title,Senior IT Support Officer Coordinator - Training,2,505.0,1005.0,755.0
 job_title,Corporate IT Support Officer Associate - Digital,4,500.0,1005.0,752.5
 job_title,Senior IT Support Officer - Operations,4,500.0,1005.0,752.5
 job_title,Senior IT Support Officer Coordinator - Customer Experience,4,500.0,1005.0,752.5
@@ -1258,13 +1261,17 @@ job_title,Senior Training Coordinator Specialist - Partnerships,3,483.3333333333
 job_title,Senior Training Coordinator Supervisor - Business Support,3,483.3333333333333,1020.0,751.6666666666666
 job_title,Senior Training Coordinator Supervisor - Financial Services,3,483.3333333333333,1020.0,751.6666666666666
 job_title,Senior Training Coordinator Supervisor - Quality,3,483.3333333333333,1020.0,751.6666666666666
+job_title,Assistant Corporate Sales Manager @ Sun And Moon Hotel Group,1,700.0,800.0,750.0
+job_title,Assistant Leisure Sales Manager @ Sun And Moon Hotel Group,1,700.0,800.0,750.0
 job_title,Branch Medical Sales Representative - Sme,4,465.0,1035.0,750.0
 job_title,Branch Medical Sales Representative Officer - Customer Experience,4,465.0,1035.0,750.0
 job_title,Branch Medical Sales Representative Officer - Regional Office,2,465.0,1035.0,750.0
+job_title,Branch Medical Sales Representative Officer - Training,2,465.0,1035.0,750.0
 job_title,Medical Sales Representative - Corporate,4,465.0,1035.0,750.0
 job_title,Medical Sales Representative - Reporting,4,465.0,1035.0,750.0
 job_title,Medical Sales Representative Executive - Digital,4,465.0,1035.0,750.0
 job_title,"Sales Staff @ Asia Kdc Engineering Co., Ltd",1,500.0,1000.0,750.0
+job_title,Ocean Freight Operation Manager,1,98.0,1400.0,749.0
 job_title,Corporate IT Support Officer - Development Programs,3,500.0,996.6666666666666,748.3333333333334
 job_title,Corporate IT Support Officer - Procurement,3,500.0,996.6666666666666,748.3333333333334
 job_title,Corporate IT Support Officer - Service Delivery,3,500.0,996.6666666666666,748.3333333333334
@@ -1294,7 +1301,6 @@ job_title,Medical Sales Representative - Service Delivery,3,463.3333333333333,10
 job_title,Medical Sales Representative Executive - Education,3,463.3333333333333,1026.6666666666667,745.0
 job_title,Medical Sales Representative Executive - Regional Office,3,463.3333333333333,1026.6666666666667,745.0
 job_title,Medical Sales Representative Executive - Reporting,3,463.3333333333333,1026.6666666666667,745.0
-job_title,Ocean Freight Operation Manager,1,90.0,1400.0,745.0
 job_title,Executive Assistant Officer - Business Support,3,493.3333333333333,993.3333333333334,743.3333333333334
 job_title,Executive Assistant Officer - Financial Services,3,493.3333333333333,993.3333333333334,743.3333333333334
 job_title,Executive Assistant Officer - Quality,3,493.3333333333333,993.3333333333334,743.3333333333334
@@ -1323,14 +1329,16 @@ job_title,Legal Assistant - Partnerships,3,493.3333333333333,986.6666666666666,7
 job_title,Legal Assistant Executive - Business Support,3,493.3333333333333,986.6666666666666,740.0
 job_title,Legal Assistant Executive - Financial Services,3,493.3333333333333,986.6666666666666,740.0
 job_title,Legal Assistant Executive - Quality,3,493.3333333333333,986.6666666666666,740.0
-job_title,Merchandising Purchaser @ Kohnan Cambodia,1,550.0,930.0,740.0
 job_title,Provincial Procurement Officer - Regional Office,2,495.0,985.0,740.0
 job_title,Senior Training Coordinator Specialist - Corporate,4,475.0,1005.0,740.0
 job_title,Senior Training Coordinator Supervisor - Digital,4,475.0,1005.0,740.0
 job_title,Executive Assistant Officer - Corporate,4,490.0,985.0,737.5
 job_title,Executive Assistant Representative - Digital,4,490.0,985.0,737.5
+job_title,Provincial Procurement Officer - Training,2,490.0,985.0,737.5
 job_title,Regional Executive Assistant - Operations,4,490.0,985.0,737.5
 job_title,Regional Executive Assistant Coordinator - Customer Experience,4,490.0,985.0,737.5
+job_title,Regional Executive Assistant Coordinator - Training,2,490.0,985.0,737.5
+job_title,Corporate Accountant Officer - Training,2,510.0,960.0,735.0
 job_title,Corporate IT Support Officer - Operations,4,490.0,980.0,735.0
 job_title,Corporate IT Support Officer Associate - Customer Experience,4,490.0,980.0,735.0
 job_title,Senior IT Support Officer - Branch Network,4,490.0,980.0,735.0
@@ -1350,6 +1358,7 @@ job_title,Branch Medical Sales Representative - Digital,4,455.0,1010.0,732.5
 job_title,Branch Medical Sales Representative Officer - Corporate,4,455.0,1010.0,732.5
 job_title,Medical Sales Representative - Operations,4,455.0,1010.0,732.5
 job_title,Medical Sales Representative Executive - Customer Experience,4,455.0,1010.0,732.5
+job_title,Medical Sales Representative Executive - Training,2,455.0,1010.0,732.5
 job_title,Branch Medical Sales Representative,7,454.2857142857143,1010.0,732.1428571428571
 job_title,Branch Medical Sales Representative Officer,7,454.2857142857143,1010.0,732.1428571428571
 job_title,Medical Sales Representative,7,454.2857142857143,1010.0,732.1428571428571
@@ -1370,7 +1379,6 @@ job_title,Medical Sales Representative - Logistics,3,453.3333333333333,1010.0,73
 job_title,Medical Sales Representative - Product,3,453.3333333333333,1010.0,731.6666666666666
 job_title,Medical Sales Representative - Technology,3,453.3333333333333,1010.0,731.6666666666666
 job_title,Medical Sales Representative Executive - Hospitality,3,453.3333333333333,1010.0,731.6666666666666
-job_title,Medical Sales Representative Executive - Training,3,453.3333333333333,1010.0,731.6666666666666
 job_title,Regional Executive Assistant - Hospitality,3,486.6666666666667,976.6666666666666,731.6666666666666
 job_title,Regional Executive Assistant - Training,3,486.6666666666667,976.6666666666666,731.6666666666666
 job_title,Regional Executive Assistant Coordinator - Community Programs,3,486.6666666666667,976.6666666666666,731.6666666666666
@@ -1394,6 +1402,7 @@ job_title,Senior Training Coordinator Supervisor - Product,3,466.6666666666667,9
 job_title,Senior Training Coordinator Supervisor - Technology,3,466.6666666666667,990.0,728.3333333333334
 job_title,Lead Legal Assistant Officer - Regional Office,2,485.0,970.0,727.5
 job_title,Warehouse Supervisor Officer - Regional Office,2,485.0,970.0,727.5
+job_title,Warehouse Supervisor Officer - Training,2,485.0,965.0,725.0
 job_title,Branch Warehouse Supervisor - Development Programs,3,483.3333333333333,963.3333333333334,723.3333333333334
 job_title,Branch Warehouse Supervisor - Procurement,3,483.3333333333333,963.3333333333334,723.3333333333334
 job_title,Branch Warehouse Supervisor - Service Delivery,3,483.3333333333333,963.3333333333334,723.3333333333334
@@ -1451,11 +1460,13 @@ job_title,Corporate Training Coordinator - Healthcare,3,463.3333333333333,973.33
 job_title,Corporate Training Coordinator Executive - Development Programs,3,463.3333333333333,973.3333333333334,718.3333333333334
 job_title,Corporate Training Coordinator Executive - Procurement,3,463.3333333333333,973.3333333333334,718.3333333333334
 job_title,Corporate Training Coordinator Executive - Service Delivery,3,463.3333333333333,973.3333333333334,718.3333333333334
+job_title,Senior Training Coordinator Specialist,9,462.22222222222223,974.4444444444445,718.3333333333334
 job_title,Senior Training Coordinator Specialist - Hospitality,3,463.3333333333333,973.3333333333334,718.3333333333334
 job_title,Senior Training Coordinator Supervisor - Community Programs,3,463.3333333333333,973.3333333333334,718.3333333333334
 job_title,Senior Training Coordinator Supervisor - Manufacturing,3,463.3333333333333,973.3333333333334,718.3333333333334
 job_title,Senior Training Coordinator Supervisor - Partnerships,3,463.3333333333333,973.3333333333334,718.3333333333334
 job_title,Credit Officer Specialist - Regional Office,2,440.0,995.0,717.5
+job_title,Credit Officer Specialist - Training,2,440.0,995.0,717.5
 job_title,Lead Legal Assistant Officer - Business Support,3,476.6666666666667,956.6666666666666,716.6666666666666
 job_title,Lead Legal Assistant Officer - Financial Services,3,476.6666666666667,956.6666666666666,716.6666666666666
 job_title,Lead Legal Assistant Officer - Quality,3,476.6666666666667,956.6666666666666,716.6666666666666
@@ -1480,6 +1491,7 @@ job_title,Lead Legal Assistant Officer - Corporate,4,475.0,950.0,712.5
 job_title,Lead Legal Assistant Representative - Digital,4,475.0,950.0,712.5
 job_title,Legal Assistant - Operations,4,475.0,950.0,712.5
 job_title,Legal Assistant Executive - Customer Experience,4,475.0,950.0,712.5
+job_title,Legal Assistant Executive - Training,2,475.0,950.0,712.5
 job_title,Corporate Training Coordinator Executive,11,458.1818181818182,966.3636363636364,712.2727272727273
 job_title,Credit Officer Specialist - Community Programs,3,436.6666666666667,986.6666666666666,711.6666666666666
 job_title,Credit Officer Specialist - Manufacturing,3,436.6666666666667,986.6666666666666,711.6666666666666
@@ -1508,12 +1520,10 @@ job_title,Branch Warehouse Supervisor - Operations,4,475.0,947.5,711.25
 job_title,Branch Warehouse Supervisor Coordinator - Customer Experience,4,475.0,947.5,711.25
 job_title,Warehouse Supervisor Officer - Corporate,4,475.0,947.5,711.25
 job_title,Warehouse Supervisor Representative - Digital,4,475.0,947.5,711.25
-job_title,Senior Training Coordinator Specialist,10,457.0,963.0,710.0
 job_title,Branch Medical Sales Representative - Community Programs,3,440.0,976.6666666666666,708.3333333333334
 job_title,Branch Medical Sales Representative - Manufacturing,3,440.0,976.6666666666666,708.3333333333334
 job_title,Branch Medical Sales Representative - Partnerships,3,440.0,976.6666666666666,708.3333333333334
 job_title,Branch Medical Sales Representative Officer - Hospitality,3,440.0,976.6666666666666,708.3333333333334
-job_title,Branch Medical Sales Representative Officer - Training,3,440.0,976.6666666666666,708.3333333333334
 job_title,Lead Legal Assistant Officer - Development Programs,3,473.3333333333333,943.3333333333334,708.3333333333334
 job_title,Lead Legal Assistant Officer - Procurement,3,473.3333333333333,943.3333333333334,708.3333333333334
 job_title,Lead Legal Assistant Officer - Service Delivery,3,473.3333333333333,943.3333333333334,708.3333333333334
@@ -1607,7 +1617,6 @@ job_title,Junior Procurement Officer - Healthcare,3,463.3333333333333,933.333333
 job_title,Junior Procurement Officer Coordinator - Development Programs,3,463.3333333333333,933.3333333333334,698.3333333333334
 job_title,Junior Procurement Officer Coordinator - Service Delivery,3,463.3333333333333,933.3333333333334,698.3333333333334
 job_title,Provincial Procurement Officer - Hospitality,3,463.3333333333333,933.3333333333334,698.3333333333334
-job_title,Provincial Procurement Officer - Training,3,463.3333333333333,933.3333333333334,698.3333333333334
 job_title,Provincial Procurement Officer Associate - Community Programs,3,463.3333333333333,933.3333333333334,698.3333333333334
 job_title,Provincial Procurement Officer Associate - Manufacturing,3,463.3333333333333,933.3333333333334,698.3333333333334
 job_title,Provincial Procurement Officer Associate - Partnerships,3,463.3333333333333,933.3333333333334,698.3333333333334
@@ -1615,7 +1624,6 @@ job_title,Corporate Training Coordinator Executive - Digital,4,447.5,947.5,697.5
 job_title,Senior Training Coordinator Specialist - Customer Experience,4,447.5,947.5,697.5
 job_title,Senior Training Coordinator Supervisor - Sme,4,447.5,947.5,697.5
 job_title,Corporate Accountant Officer - Hospitality,3,483.3333333333333,910.0,696.6666666666666
-job_title,Corporate Accountant Officer - Training,3,483.3333333333333,910.0,696.6666666666666
 job_title,Corporate Accountant Representative - Community Programs,3,483.3333333333333,910.0,696.6666666666666
 job_title,Corporate Accountant Representative - Manufacturing,3,483.3333333333333,910.0,696.6666666666666
 job_title,Corporate Accountant Representative - Partnerships,3,483.3333333333333,910.0,696.6666666666666
@@ -1780,7 +1788,6 @@ job_title,Senior Training Coordinator Specialist - Product,3,440.0,930.0,685.0
 job_title,Senior Training Coordinator Specialist - Technology,3,440.0,930.0,685.0
 job_title,Senior Training Coordinator Supervisor - Hospitality,3,440.0,930.0,685.0
 job_title,Warehouse Supervisor Officer - Hospitality,3,456.6666666666667,913.3333333333334,685.0
-job_title,Warehouse Supervisor Officer - Training,3,456.6666666666667,913.3333333333334,685.0
 job_title,Warehouse Supervisor Representative - Community Programs,3,456.6666666666667,913.3333333333334,685.0
 job_title,Warehouse Supervisor Representative - Manufacturing,3,456.6666666666667,913.3333333333334,685.0
 job_title,Warehouse Supervisor Representative - Partnerships,3,456.6666666666667,913.3333333333334,685.0
@@ -1798,7 +1805,6 @@ job_title,Warehouse Supervisor Representative - Retail,4,455.0,910.0,682.5
 job_title,Assistant Digital Marketing Officer Supervisor - Compliance,4,420.0,940.0,680.0
 job_title,Assistant Digital Marketing Officer Supervisor - Retail,4,420.0,940.0,680.0
 job_title,Credit Officer Specialist - Hospitality,3,416.6666666666667,943.3333333333334,680.0
-job_title,Credit Officer Specialist - Training,3,416.6666666666667,943.3333333333334,680.0
 job_title,Credit Officer Supervisor - Community Programs,3,416.6666666666667,943.3333333333334,680.0
 job_title,Credit Officer Supervisor - Manufacturing,3,416.6666666666667,943.3333333333334,680.0
 job_title,Credit Officer Supervisor - Partnerships,3,416.6666666666667,943.3333333333334,680.0
@@ -1898,7 +1904,6 @@ job_title,Legal Assistant - Logistics,3,450.0,896.6666666666666,673.333333333333
 job_title,Legal Assistant - Product,3,450.0,896.6666666666666,673.3333333333334
 job_title,Legal Assistant - Technology,3,450.0,896.6666666666666,673.3333333333334
 job_title,Legal Assistant Executive - Hospitality,3,450.0,896.6666666666666,673.3333333333334
-job_title,Legal Assistant Executive - Training,3,450.0,896.6666666666666,673.3333333333334
 job_title,Regional Graphic Designer - Business Support,3,413.3333333333333,933.3333333333334,673.3333333333334
 job_title,Regional Graphic Designer - Financial Services,3,413.3333333333333,933.3333333333334,673.3333333333334
 job_title,Regional Graphic Designer - Quality,3,413.3333333333333,933.3333333333334,673.3333333333334
@@ -1972,6 +1977,7 @@ job_title,Branch Warehouse Supervisor - Training,3,443.3333333333333,886.6666666
 job_title,Branch Warehouse Supervisor Coordinator - Community Programs,3,443.3333333333333,886.6666666666666,665.0
 job_title,Branch Warehouse Supervisor Coordinator - Manufacturing,3,443.3333333333333,886.6666666666666,665.0
 job_title,Branch Warehouse Supervisor Coordinator - Partnerships,3,443.3333333333333,886.6666666666666,665.0
+job_title,Graphic Designer Coordinator - Training,2,410.0,920.0,665.0
 job_title,Junior Procurement Officer - Business Support,3,443.3333333333333,886.6666666666666,665.0
 job_title,Junior Procurement Officer - Financial Services,3,443.3333333333333,886.6666666666666,665.0
 job_title,Junior Procurement Officer - Quality,3,443.3333333333333,886.6666666666666,665.0
@@ -1994,7 +2000,6 @@ job_title,Assistant Digital Marketing Officer Specialist - Customer Experience,4
 job_title,Assistant Digital Marketing Officer Supervisor - Sme,4,410.0,917.5,663.75
 job_title,Field Digital Marketing Officer - Corporate,4,410.0,917.5,663.75
 job_title,Assistant Digital Marketing Officer Specialist - Hospitality,3,410.0,916.6666666666666,663.3333333333334
-job_title,Assistant Digital Marketing Officer Specialist - Training,3,410.0,916.6666666666666,663.3333333333334
 job_title,Assistant Digital Marketing Officer Supervisor - Community Programs,3,410.0,916.6666666666666,663.3333333333334
 job_title,Assistant Digital Marketing Officer Supervisor - Manufacturing,3,410.0,916.6666666666666,663.3333333333334
 job_title,Assistant Digital Marketing Officer Supervisor - Partnerships,3,410.0,916.6666666666666,663.3333333333334
@@ -2016,6 +2021,7 @@ job_title,Provincial Hotel Front Office Supervisor Representative - Field Operat
 job_title,Provincial Hotel Front Office Supervisor Representative - Head Office,3,426.6666666666667,900.0,663.3333333333334
 job_title,Provincial Hotel Front Office Supervisor Representative - Healthcare,3,426.6666666666667,900.0,663.3333333333334
 job_title,Corporate Accountant Representative,11,459.09090909090907,866.3636363636364,662.7272727272727
+job_title,Assistant Digital Marketing Officer Specialist - Training,2,410.0,915.0,662.5
 job_title,Lead Legal Assistant Officer - Compliance,4,442.5,882.5,662.5
 job_title,Lead Legal Assistant Officer - Retail,4,442.5,882.5,662.5
 job_title,Lead Legal Assistant Representative - Operations,4,442.5,882.5,662.5
@@ -2094,6 +2100,7 @@ job_title,Warehouse Supervisor Representative - Operations,4,437.5,875.0,656.25
 job_title,Assistant Digital Marketing Officer Specialist - Compliance,4,405.0,905.0,655.0
 job_title,Assistant Digital Marketing Officer Specialist - Retail,4,405.0,905.0,655.0
 job_title,Assistant Digital Marketing Officer Supervisor - Operations,4,405.0,905.0,655.0
+job_title,Corporate Quality Control Officer Specialist - Training,2,420.0,890.0,655.0
 job_title,Corporate Training Coordinator - Regional Office,2,420.0,890.0,655.0
 job_title,Field Digital Marketing Officer - Sme,4,405.0,905.0,655.0
 job_title,Field Digital Marketing Officer Executive - Branch Network,4,405.0,905.0,655.0
@@ -2130,7 +2137,6 @@ job_title,Regional Credit Officer Executive - Branch Network,4,400.0,905.0,652.5
 job_title,Senior Quality Control Officer - Corporate,4,420.0,885.0,652.5
 job_title,Senior Quality Control Officer Associate - Digital,4,420.0,885.0,652.5
 job_title,Lead Legal Assistant Officer - Hospitality,3,436.6666666666667,866.6666666666666,651.6666666666666
-job_title,Lead Legal Assistant Officer - Training,3,436.6666666666667,866.6666666666666,651.6666666666666
 job_title,Lead Legal Assistant Representative - Community Programs,3,436.6666666666667,866.6666666666666,651.6666666666666
 job_title,Lead Legal Assistant Representative - Manufacturing,3,436.6666666666667,866.6666666666666,651.6666666666666
 job_title,Lead Legal Assistant Representative - Partnerships,3,436.6666666666667,866.6666666666666,651.6666666666666
@@ -2190,6 +2196,7 @@ job_title,Warehouse Supervisor Officer - Product,3,433.3333333333333,866.6666666
 job_title,Warehouse Supervisor Officer - Technology,3,433.3333333333333,866.6666666666666,650.0
 job_title,Warehouse Supervisor Representative - Hospitality,3,433.3333333333333,866.6666666666666,650.0
 job_title,Warehouse Supervisor Representative - Training,3,433.3333333333333,866.6666666666666,650.0
+job_title,Loan Officer / Supervisor,1,98.0,1200.0,649.0
 job_title,Corporate Quality Control Officer Specialist - Community Programs,3,416.6666666666667,880.0,648.3333333333334
 job_title,Corporate Quality Control Officer Specialist - Manufacturing,3,416.6666666666667,880.0,648.3333333333334
 job_title,Corporate Quality Control Officer Specialist - Partnerships,3,416.6666666666667,880.0,648.3333333333334
@@ -2220,7 +2227,6 @@ job_title,Corporate Quality Control Officer Specialist - Retail,4,415.0,877.5,64
 job_title,Corporate Quality Control Officer Supervisor - Operations,4,415.0,877.5,646.25
 job_title,Senior Quality Control Officer - Sme,4,415.0,877.5,646.25
 job_title,Senior Quality Control Officer Associate - Branch Network,4,415.0,877.5,646.25
-job_title,Loan Officer / Supervisor,1,90.0,1200.0,645.0
 job_title,Corporate Quality Control Officer Specialist,13,414.61538461538464,874.6153846153846,644.6153846153846
 job_title,Senior Quality Control Officer,10,414.0,874.0,644.0
 job_title,Corporate Accountant Officer - Operations,4,445.0,840.0,642.5
@@ -2253,7 +2259,6 @@ job_title,Junior Procurement Officer - Logistics,3,426.6666666666667,856.6666666
 job_title,Junior Procurement Officer - Product,3,426.6666666666667,856.6666666666666,641.6666666666666
 job_title,Junior Procurement Officer - Technology,3,426.6666666666667,856.6666666666666,641.6666666666666
 job_title,Junior Procurement Officer Coordinator - Hospitality,3,426.6666666666667,856.6666666666666,641.6666666666666
-job_title,Junior Procurement Officer Coordinator - Training,3,426.6666666666667,856.6666666666666,641.6666666666666
 job_title,Provincial Hotel Front Office Supervisor Officer - Logistics,3,413.3333333333333,870.0,641.6666666666666
 job_title,Provincial Hotel Front Office Supervisor Officer - Product,3,413.3333333333333,870.0,641.6666666666666
 job_title,Provincial Hotel Front Office Supervisor Officer - Technology,3,413.3333333333333,870.0,641.6666666666666
@@ -2264,6 +2269,7 @@ job_title,Provincial Procurement Officer - Head Office,3,426.6666666666667,856.6
 job_title,Provincial Procurement Officer - Healthcare,3,426.6666666666667,856.6666666666666,641.6666666666666
 job_title,Provincial Procurement Officer Associate - Development Programs,3,426.6666666666667,856.6666666666666,641.6666666666666
 job_title,Provincial Procurement Officer Associate - Service Delivery,3,426.6666666666667,856.6666666666666,641.6666666666666
+job_title,Assistant Nurse Coordinator - Training,2,390.0,890.0,640.0
 job_title,Corporate Accountant Officer - Field Operations,3,443.3333333333333,836.6666666666666,640.0
 job_title,Corporate Accountant Officer - Head Office,3,443.3333333333333,836.6666666666666,640.0
 job_title,Corporate Accountant Officer - Healthcare,3,443.3333333333333,836.6666666666666,640.0
@@ -2282,6 +2288,7 @@ job_title,Regional Graphic Designer - Partnerships,3,393.3333333333333,886.66666
 job_title,Regional Graphic Designer Associate - Business Support,3,393.3333333333333,886.6666666666666,640.0
 job_title,Regional Graphic Designer Associate - Financial Services,3,393.3333333333333,886.6666666666666,640.0
 job_title,Regional Graphic Designer Associate - Quality,3,393.3333333333333,886.6666666666666,640.0
+job_title,Regional HR Officer Specialist - Training,2,430.0,850.0,640.0
 job_title,Senior Accountant - Logistics,3,443.3333333333333,836.6666666666666,640.0
 job_title,Senior Accountant - Product,3,443.3333333333333,836.6666666666666,640.0
 job_title,Senior Accountant - Technology,3,443.3333333333333,836.6666666666666,640.0
@@ -2323,6 +2330,7 @@ job_title,HR Officer - Service Delivery,3,426.6666666666667,843.3333333333334,63
 job_title,HR Officer Associate - Education,3,426.6666666666667,843.3333333333334,635.0
 job_title,HR Officer Associate - Regional Office,3,426.6666666666667,843.3333333333334,635.0
 job_title,HR Officer Associate - Reporting,3,426.6666666666667,843.3333333333334,635.0
+job_title,Provincial Hotel Front Office Supervisor Officer - Training,2,410.0,860.0,635.0
 job_title,Regional HR Officer Specialist - Community Programs,3,426.6666666666667,843.3333333333334,635.0
 job_title,Regional HR Officer Specialist - Manufacturing,3,426.6666666666667,843.3333333333334,635.0
 job_title,Regional HR Officer Specialist - Partnerships,3,426.6666666666667,843.3333333333334,635.0
@@ -2359,6 +2367,7 @@ job_title,Field Digital Marketing Officer Executive - Corporate,4,390.0,872.5,63
 job_title,Corporate Quality Control Officer Supervisor,13,405.38461538461536,856.1538461538462,630.7692307692307
 job_title,Corporate Quality Control Officer Specialist - Sme,4,405.0,855.0,630.0
 job_title,Corporate Quality Control Officer Supervisor - Branch Network,4,405.0,855.0,630.0
+job_title,Regional Logistics Coordinator Officer - Training,2,400.0,860.0,630.0
 job_title,Senior Accountant - Regional Office,2,435.0,825.0,630.0
 job_title,Senior Quality Control Officer - Digital,4,405.0,855.0,630.0
 job_title,Senior Quality Control Officer Associate - Compliance,4,405.0,855.0,630.0
@@ -2372,7 +2381,6 @@ job_title,Branch Warehouse Supervisor - Logistics,3,416.6666666666667,836.666666
 job_title,Branch Warehouse Supervisor - Product,3,416.6666666666667,836.6666666666666,626.6666666666666
 job_title,Branch Warehouse Supervisor - Technology,3,416.6666666666667,836.6666666666666,626.6666666666666
 job_title,Branch Warehouse Supervisor Coordinator - Hospitality,3,416.6666666666667,836.6666666666666,626.6666666666666
-job_title,Branch Warehouse Supervisor Coordinator - Training,3,416.6666666666667,836.6666666666666,626.6666666666666
 job_title,Corporate Accountant Officer - Education,3,433.3333333333333,820.0,626.6666666666666
 job_title,Corporate Accountant Officer - Reporting,3,433.3333333333333,820.0,626.6666666666666
 job_title,Corporate Accountant Representative - Logistics,3,433.3333333333333,820.0,626.6666666666666
@@ -2388,7 +2396,6 @@ job_title,Graphic Designer - Logistics,3,386.6666666666667,866.6666666666666,626
 job_title,Graphic Designer - Product,3,386.6666666666667,866.6666666666666,626.6666666666666
 job_title,Graphic Designer - Technology,3,386.6666666666667,866.6666666666666,626.6666666666666
 job_title,Graphic Designer Coordinator - Hospitality,3,386.6666666666667,866.6666666666666,626.6666666666666
-job_title,Graphic Designer Coordinator - Training,3,386.6666666666667,866.6666666666666,626.6666666666666
 job_title,Regional Graphic Designer - Field Operations,3,386.6666666666667,866.6666666666666,626.6666666666666
 job_title,Regional Graphic Designer - Head Office,3,386.6666666666667,866.6666666666666,626.6666666666666
 job_title,Regional Graphic Designer - Healthcare,3,386.6666666666667,866.6666666666666,626.6666666666666
@@ -2465,7 +2472,6 @@ job_title,Provincial Hotel Front Office Supervisor Representative - Procurement,
 job_title,Provincial Hotel Front Office Supervisor Representative - Service Delivery,3,400.0,840.0,620.0
 job_title,Regional Credit Officer - Regional Office,2,380.0,860.0,620.0
 job_title,Corporate Quality Control Officer Specialist - Hospitality,3,396.6666666666667,840.0,618.3333333333334
-job_title,Corporate Quality Control Officer Specialist - Training,3,396.6666666666667,840.0,618.3333333333334
 job_title,Corporate Quality Control Officer Supervisor - Community Programs,3,396.6666666666667,840.0,618.3333333333334
 job_title,Corporate Quality Control Officer Supervisor - Manufacturing,3,396.6666666666667,840.0,618.3333333333334
 job_title,Corporate Quality Control Officer Supervisor - Partnerships,3,396.6666666666667,840.0,618.3333333333334
@@ -2500,6 +2506,7 @@ job_title,Senior Accountant Executive - Digital,4,425.0,805.0,615.0
 job_title,Junior Hotel Front Office Supervisor - Digital,4,395.0,830.0,612.5
 job_title,Junior Hotel Front Office Supervisor Executive - Compliance,4,395.0,830.0,612.5
 job_title,Junior Hotel Front Office Supervisor Executive - Retail,4,395.0,830.0,612.5
+job_title,Lead Legal Assistant Officer - Training,2,410.0,815.0,612.5
 job_title,Provincial Hotel Front Office Supervisor Officer - Sme,4,395.0,830.0,612.5
 job_title,Provincial Hotel Front Office Supervisor Representative - Branch Network,4,395.0,830.0,612.5
 job_title,Junior Hotel Front Office Supervisor - Community Programs,3,393.3333333333333,830.0,611.6666666666666
@@ -2525,7 +2532,6 @@ job_title,Assistant Nurse - Logistics,3,370.0,843.3333333333334,606.666666666666
 job_title,Assistant Nurse - Product,3,370.0,843.3333333333334,606.6666666666666
 job_title,Assistant Nurse - Technology,3,370.0,843.3333333333334,606.6666666666666
 job_title,Assistant Nurse Coordinator - Hospitality,3,370.0,843.3333333333334,606.6666666666666
-job_title,Assistant Nurse Coordinator - Training,3,370.0,843.3333333333334,606.6666666666666
 job_title,Field Nurse - Field Operations,3,370.0,843.3333333333334,606.6666666666666
 job_title,Field Nurse - Head Office,3,370.0,843.3333333333334,606.6666666666666
 job_title,Field Nurse - Healthcare,3,370.0,843.3333333333334,606.6666666666666
@@ -2549,12 +2555,10 @@ job_title,Junior Hotel Front Office Supervisor Executive - Corporate,4,390.0,820
 job_title,Provincial Hotel Front Office Supervisor Officer - Operations,4,390.0,820.0,605.0
 job_title,Provincial Hotel Front Office Supervisor Representative - Customer Experience,4,390.0,820.0,605.0
 job_title,Regional Graphic Designer - Hospitality,3,373.3333333333333,836.6666666666666,605.0
-job_title,Regional Graphic Designer - Training,3,373.3333333333333,836.6666666666666,605.0
 job_title,Regional Graphic Designer Associate - Community Programs,3,373.3333333333333,836.6666666666666,605.0
 job_title,Regional Graphic Designer Associate - Manufacturing,3,373.3333333333333,836.6666666666666,605.0
 job_title,Regional Graphic Designer Associate - Partnerships,3,373.3333333333333,836.6666666666666,605.0
 job_title,Regional HR Officer Specialist - Hospitality,3,406.6666666666667,803.3333333333334,605.0
-job_title,Regional HR Officer Specialist - Training,3,406.6666666666667,803.3333333333334,605.0
 job_title,Regional HR Officer Supervisor - Community Programs,3,406.6666666666667,803.3333333333334,605.0
 job_title,Regional HR Officer Supervisor - Manufacturing,3,406.6666666666667,803.3333333333334,605.0
 job_title,Regional HR Officer Supervisor - Partnerships,3,406.6666666666667,803.3333333333334,605.0
@@ -2571,10 +2575,10 @@ job_title,Senior Accountant Executive - Product,3,416.6666666666667,790.0,603.33
 job_title,Senior Accountant Executive - Technology,3,416.6666666666667,790.0,603.3333333333334
 job_title,HR Officer - Customer Experience,4,405.0,800.0,602.5
 job_title,HR Officer Associate - Sme,4,405.0,800.0,602.5
+job_title,Junior Procurement Officer Coordinator - Training,2,400.0,805.0,602.5
 job_title,Regional HR Officer Specialist - Digital,4,405.0,800.0,602.5
 job_title,Regional HR Officer Supervisor - Compliance,4,405.0,800.0,602.5
 job_title,Regional HR Officer Supervisor - Retail,4,405.0,800.0,602.5
-job_title,"Supply Control Leaders @ Fineplas (Cambodia) Co., Ltd.",1,600.0,600.0,600.0
 job_title,Junior Hotel Front Office Supervisor - Field Operations,3,386.6666666666667,810.0,598.3333333333334
 job_title,Junior Hotel Front Office Supervisor - Head Office,3,386.6666666666667,810.0,598.3333333333334
 job_title,Junior Hotel Front Office Supervisor - Healthcare,3,386.6666666666667,810.0,598.3333333333334
@@ -2588,12 +2592,10 @@ job_title,Logistics Coordinator Executive - Development Programs,3,380.0,816.666
 job_title,Logistics Coordinator Executive - Procurement,3,380.0,816.6666666666666,598.3333333333334
 job_title,Logistics Coordinator Executive - Service Delivery,3,380.0,816.6666666666666,598.3333333333334
 job_title,Provincial Hotel Front Office Supervisor Officer - Hospitality,3,386.6666666666667,810.0,598.3333333333334
-job_title,Provincial Hotel Front Office Supervisor Officer - Training,3,386.6666666666667,810.0,598.3333333333334
 job_title,Provincial Hotel Front Office Supervisor Representative - Community Programs,3,386.6666666666667,810.0,598.3333333333334
 job_title,Provincial Hotel Front Office Supervisor Representative - Manufacturing,3,386.6666666666667,810.0,598.3333333333334
 job_title,Provincial Hotel Front Office Supervisor Representative - Partnerships,3,386.6666666666667,810.0,598.3333333333334
 job_title,Regional Logistics Coordinator Officer - Hospitality,3,380.0,816.6666666666666,598.3333333333334
-job_title,Regional Logistics Coordinator Officer - Training,3,380.0,816.6666666666666,598.3333333333334
 job_title,Regional Logistics Coordinator Representative - Community Programs,3,380.0,816.6666666666666,598.3333333333334
 job_title,Regional Logistics Coordinator Representative - Manufacturing,3,380.0,816.6666666666666,598.3333333333334
 job_title,Regional Logistics Coordinator Representative - Partnerships,3,380.0,816.6666666666666,598.3333333333334
@@ -2609,7 +2611,6 @@ job_title,Corporate Quality Control Officer Supervisor - Education,3,383.3333333
 job_title,Corporate Quality Control Officer Supervisor - Regional Office,3,383.3333333333333,810.0,596.6666666666666
 job_title,Corporate Quality Control Officer Supervisor - Reporting,3,383.3333333333333,810.0,596.6666666666666
 job_title,Senior Quality Control Officer - Hospitality,3,383.3333333333333,810.0,596.6666666666666
-job_title,Senior Quality Control Officer - Training,3,383.3333333333333,810.0,596.6666666666666
 job_title,Senior Quality Control Officer Associate - Community Programs,3,383.3333333333333,810.0,596.6666666666666
 job_title,Senior Quality Control Officer Associate - Manufacturing,3,383.3333333333333,810.0,596.6666666666666
 job_title,Senior Quality Control Officer Associate - Partnerships,3,383.3333333333333,810.0,596.6666666666666
@@ -2650,10 +2651,10 @@ job_title,Assistant Nurse Coordinator - Development Programs,3,360.0,816.6666666
 job_title,Assistant Nurse Coordinator - Procurement,3,360.0,816.6666666666666,588.3333333333334
 job_title,Assistant Nurse Coordinator - Service Delivery,3,360.0,816.6666666666666,588.3333333333334
 job_title,Field Nurse - Hospitality,3,360.0,816.6666666666666,588.3333333333334
-job_title,Field Nurse - Training,3,360.0,816.6666666666666,588.3333333333334
 job_title,Field Nurse Associate - Community Programs,3,360.0,816.6666666666666,588.3333333333334
 job_title,Field Nurse Associate - Manufacturing,3,360.0,816.6666666666666,588.3333333333334
 job_title,Field Nurse Associate - Partnerships,3,360.0,816.6666666666666,588.3333333333334
+job_title,Branch Warehouse Supervisor Coordinator - Training,2,390.0,785.0,587.5
 job_title,HR Officer - Corporate,4,395.0,780.0,587.5
 job_title,HR Officer Associate - Digital,4,395.0,780.0,587.5
 job_title,Regional HR Officer Specialist - Customer Experience,4,395.0,780.0,587.5
@@ -2670,7 +2671,6 @@ job_title,Provincial Factory Line Leader - Technology,3,373.3333333333333,800.0,
 job_title,Provincial Factory Line Leader Executive - Hospitality,3,373.3333333333333,800.0,586.6666666666666
 job_title,Provincial Factory Line Leader Executive - Training,3,373.3333333333333,800.0,586.6666666666666
 job_title,HR Officer - Hospitality,3,393.3333333333333,776.6666666666666,585.0
-job_title,HR Officer - Training,3,393.3333333333333,776.6666666666666,585.0
 job_title,HR Officer Associate - Community Programs,3,393.3333333333333,776.6666666666666,585.0
 job_title,HR Officer Associate - Manufacturing,3,393.3333333333333,776.6666666666666,585.0
 job_title,HR Officer Associate - Partnerships,3,393.3333333333333,776.6666666666666,585.0
@@ -2778,8 +2778,8 @@ job_title,Assistant Nurse Coordinator - Sme,4,345.0,790.0,567.5
 job_title,Field Nurse - Digital,4,345.0,790.0,567.5
 job_title,Field Nurse Associate - Compliance,4,345.0,790.0,567.5
 job_title,Field Nurse Associate - Retail,4,345.0,790.0,567.5
+job_title,Regional Graphic Designer - Training,2,350.0,785.0,567.5
 job_title,Junior Factory Line Leader Specialist - Hospitality,3,360.0,773.3333333333334,566.6666666666666
-job_title,Junior Factory Line Leader Specialist - Training,3,360.0,773.3333333333334,566.6666666666666
 job_title,Junior Factory Line Leader Supervisor - Community Programs,3,360.0,773.3333333333334,566.6666666666666
 job_title,Junior Factory Line Leader Supervisor - Manufacturing,3,360.0,773.3333333333334,566.6666666666666
 job_title,Junior Factory Line Leader Supervisor - Partnerships,3,360.0,773.3333333333334,566.6666666666666
@@ -2837,6 +2837,7 @@ job_title,Regional Logistics Coordinator Representative - Branch Network,4,355.0
 job_title,Regional Logistics Coordinator Representative - Business Support,3,356.6666666666667,763.3333333333334,560.0
 job_title,Regional Logistics Coordinator Representative - Financial Services,3,356.6666666666667,763.3333333333334,560.0
 job_title,Regional Logistics Coordinator Representative - Quality,3,356.6666666666667,763.3333333333334,560.0
+job_title,Senior Quality Control Officer - Training,2,360.0,760.0,560.0
 job_title,Assistant Nurse - Business Support,3,340.0,776.6666666666666,558.3333333333334
 job_title,Assistant Nurse - Financial Services,3,340.0,776.6666666666666,558.3333333333334
 job_title,Assistant Nurse - Quality,3,340.0,776.6666666666666,558.3333333333334
@@ -2848,11 +2849,13 @@ job_title,Field Nurse - Product,3,340.0,776.6666666666666,558.3333333333334
 job_title,Field Nurse - Technology,3,340.0,776.6666666666666,558.3333333333334
 job_title,Field Nurse Associate - Hospitality,3,340.0,776.6666666666666,558.3333333333334
 job_title,Field Nurse Associate - Training,3,340.0,776.6666666666666,558.3333333333334
+job_title,Branch Sales Executive - Training,2,335.0,780.0,557.5
 job_title,Junior Factory Line Leader Specialist - Operations,4,355.0,760.0,557.5
 job_title,Junior Factory Line Leader Supervisor - Customer Experience,4,355.0,760.0,557.5
 job_title,Logistics Coordinator,10,354.0,761.0,557.5
 job_title,Provincial Factory Line Leader - Branch Network,4,355.0,760.0,557.5
 job_title,Provincial Factory Line Leader Executive - Corporate,4,355.0,760.0,557.5
+job_title,Field Nurse - Training,2,340.0,770.0,555.0
 job_title,HR Officer - Logistics,3,373.3333333333333,736.6666666666666,555.0
 job_title,HR Officer - Product,3,373.3333333333333,736.6666666666666,555.0
 job_title,HR Officer - Technology,3,373.3333333333333,736.6666666666666,555.0
@@ -2878,15 +2881,14 @@ job_title,Field Nurse Associate - Sme,4,335.0,770.0,552.5
 job_title,Logistics Coordinator - Product,3,350.0,753.3333333333334,551.6666666666666
 job_title,Logistics Coordinator - Technology,3,350.0,753.3333333333334,551.6666666666666
 job_title,Logistics Coordinator Executive - Hospitality,3,350.0,753.3333333333334,551.6666666666666
-job_title,Logistics Coordinator Executive - Training,3,350.0,753.3333333333334,551.6666666666666
 job_title,Regional Logistics Coordinator Officer - Field Operations,3,350.0,753.3333333333334,551.6666666666666
 job_title,Regional Logistics Coordinator Officer - Head Office,3,350.0,753.3333333333334,551.6666666666666
 job_title,Regional Logistics Coordinator Officer - Healthcare,3,350.0,753.3333333333334,551.6666666666666
 job_title,Regional Logistics Coordinator Representative - Development Programs,3,350.0,753.3333333333334,551.6666666666666
 job_title,Regional Logistics Coordinator Representative - Procurement,3,350.0,753.3333333333334,551.6666666666666
 job_title,Regional Logistics Coordinator Representative - Service Delivery,3,350.0,753.3333333333334,551.6666666666666
-job_title,Assistance Brand Manager @ Mixue Ice Cream & Tea,1,500.0,600.0,550.0
 job_title,HR Officer - Regional Office,2,370.0,730.0,550.0
+job_title,HR Officer - Training,2,370.0,730.0,550.0
 job_title,Junior Factory Line Leader Specialist,7,350.0,750.0,550.0
 job_title,Junior Factory Line Leader Specialist - Development Programs,3,350.0,750.0,550.0
 job_title,Junior Factory Line Leader Specialist - Digital,4,350.0,750.0,550.0
@@ -2908,7 +2910,6 @@ job_title,Provincial Factory Line Leader Executive - Community Programs,3,350.0,
 job_title,Provincial Factory Line Leader Executive - Manufacturing,3,350.0,750.0,550.0
 job_title,Provincial Factory Line Leader Executive - Partnerships,3,350.0,750.0,550.0
 job_title,Provincial Factory Line Leader Executive - Sme,4,350.0,750.0,550.0
-job_title,"Retail Tour Sales Executive @ Elite Travel & Tours Co., Ltd.",1,400.0,700.0,550.0
 job_title,Logistics Coordinator Executive,10,348.0,749.0,548.5
 job_title,Assistant Nurse - Development Programs,3,333.3333333333333,763.3333333333334,548.3333333333334
 job_title,Assistant Nurse - Procurement,3,333.3333333333333,763.3333333333334,548.3333333333334
@@ -2962,6 +2963,7 @@ job_title,Junior Factory Line Leader Specialist - Customer Experience,4,342.5,73
 job_title,Junior Factory Line Leader Supervisor - Sme,4,342.5,732.5,537.5
 job_title,Provincial Factory Line Leader - Corporate,4,342.5,732.5,537.5
 job_title,Provincial Factory Line Leader Executive - Digital,4,342.5,732.5,537.5
+job_title,Junior Factory Line Leader Specialist - Training,2,340.0,730.0,535.0
 job_title,Junior Factory Line Leader Specialist - Community Programs,3,340.0,726.6666666666666,533.3333333333334
 job_title,Junior Factory Line Leader Specialist - Manufacturing,3,340.0,726.6666666666666,533.3333333333334
 job_title,Junior Factory Line Leader Specialist - Partnerships,3,340.0,726.6666666666666,533.3333333333334
@@ -2986,7 +2988,6 @@ job_title,Assistant Nurse Coordinator - Business Support,3,320.0,736.66666666666
 job_title,Assistant Nurse Coordinator - Financial Services,3,320.0,736.6666666666666,528.3333333333334
 job_title,Assistant Nurse Coordinator - Quality,3,320.0,736.6666666666666,528.3333333333334
 job_title,Branch Sales Executive - Hospitality,3,316.6666666666667,740.0,528.3333333333334
-job_title,Branch Sales Executive - Training,3,316.6666666666667,740.0,528.3333333333334
 job_title,Branch Sales Executive Associate - Community Programs,3,316.6666666666667,740.0,528.3333333333334
 job_title,Branch Sales Executive Associate - Manufacturing,3,316.6666666666667,740.0,528.3333333333334
 job_title,Branch Sales Executive Associate - Partnerships,3,316.6666666666667,740.0,528.3333333333334
@@ -3017,6 +3018,7 @@ job_title,Regional Logistics Coordinator Representative - Head Office,3,330.0,71
 job_title,Regional Logistics Coordinator Representative - Healthcare,3,330.0,713.3333333333334,521.6666666666666
 job_title,Branch Sales Executive - Branch Network,4,312.5,727.5,520.0
 job_title,Branch Sales Executive Associate - Corporate,4,312.5,727.5,520.0
+job_title,Logistics Coordinator Executive - Training,2,330.0,710.0,520.0
 job_title,Sales Executive - Compliance,4,312.5,727.5,520.0
 job_title,Sales Executive - Retail,4,312.5,727.5,520.0
 job_title,Sales Executive Coordinator - Operations,4,312.5,727.5,520.0
@@ -3100,7 +3102,6 @@ job_title,Sales Executive - Logistics,3,293.3333333333333,680.0,486.666666666666
 job_title,Sales Executive - Product,3,293.3333333333333,680.0,486.6666666666667
 job_title,Sales Executive - Technology,3,293.3333333333333,680.0,486.6666666666667
 job_title,Sales Executive Coordinator - Hospitality,3,293.3333333333333,680.0,486.6666666666667
-job_title,Sales Executive Coordinator - Training,3,293.3333333333333,680.0,486.6666666666667
 job_title,Branch Sales Executive - Digital,4,290.0,675.0,482.5
 job_title,Branch Sales Executive Associate - Compliance,4,290.0,675.0,482.5
 job_title,Branch Sales Executive Associate - Retail,4,290.0,675.0,482.5
@@ -3150,6 +3151,7 @@ job_title,Lead Bank Teller Specialist - Healthcare,3,306.6666666666667,620.0,463
 job_title,Lead Bank Teller Supervisor - Development Programs,3,306.6666666666667,620.0,463.3333333333333
 job_title,Lead Bank Teller Supervisor - Procurement,3,306.6666666666667,620.0,463.3333333333333
 job_title,Lead Bank Teller Supervisor - Service Delivery,3,306.6666666666667,620.0,463.3333333333333
+job_title,Bank Teller - Training,2,310.0,615.0,462.5
 job_title,Branch Sales Executive - Business Support,3,276.6666666666667,646.6666666666666,461.6666666666667
 job_title,Branch Sales Executive - Financial Services,3,276.6666666666667,646.6666666666666,461.6666666666667
 job_title,Branch Sales Executive - Quality,3,276.6666666666667,646.6666666666666,461.6666666666667
@@ -3179,6 +3181,7 @@ job_title,Lead Bank Teller Specialist - Reporting,3,306.6666666666667,610.0,458.
 job_title,Lead Bank Teller Supervisor - Logistics,3,306.6666666666667,610.0,458.3333333333333
 job_title,Lead Bank Teller Supervisor - Product,3,306.6666666666667,610.0,458.3333333333333
 job_title,Lead Bank Teller Supervisor - Technology,3,306.6666666666667,610.0,458.3333333333333
+job_title,Sales Executive Coordinator - Training,2,275.0,640.0,457.5
 job_title,Bank Teller - Compliance,4,305.0,607.5,456.25
 job_title,Bank Teller - Retail,4,305.0,607.5,456.25
 job_title,Bank Teller Associate - Operations,4,305.0,607.5,456.25
@@ -3197,7 +3200,7 @@ job_title,Bank Teller Associate - Service Delivery,3,300.0,600.0,450.0
 job_title,Lead Bank Teller Specialist,7,300.0,600.0,450.0
 job_title,Lead Bank Teller Specialist - Customer Experience,4,300.0,600.0,450.0
 job_title,Lead Bank Teller Specialist - Hospitality,3,300.0,600.0,450.0
-job_title,Lead Bank Teller Specialist - Training,3,300.0,600.0,450.0
+job_title,Lead Bank Teller Specialist - Training,2,300.0,600.0,450.0
 job_title,Lead Bank Teller Supervisor,7,300.0,600.0,450.0
 job_title,Lead Bank Teller Supervisor - Community Programs,3,300.0,600.0,450.0
 job_title,Lead Bank Teller Supervisor - Manufacturing,3,300.0,600.0,450.0
@@ -3224,7 +3227,6 @@ job_title,Bank Teller Associate - Customer Experience,4,295.0,585.0,440.0
 job_title,Lead Bank Teller Specialist - Corporate,4,295.0,585.0,440.0
 job_title,Lead Bank Teller Supervisor - Digital,4,295.0,585.0,440.0
 job_title,Bank Teller - Hospitality,3,293.3333333333333,580.0,436.6666666666667
-job_title,Bank Teller - Training,3,293.3333333333333,580.0,436.6666666666667
 job_title,Bank Teller Associate - Community Programs,3,293.3333333333333,580.0,436.6666666666667
 job_title,Bank Teller Associate - Manufacturing,3,293.3333333333333,580.0,436.6666666666667
 job_title,Bank Teller Associate - Partnerships,3,293.3333333333333,580.0,436.6666666666667
@@ -3234,11 +3236,12 @@ job_title,Lead Bank Teller Specialist - Service Delivery,3,293.3333333333333,580
 job_title,Lead Bank Teller Supervisor - Education,3,293.3333333333333,580.0,436.6666666666667
 job_title,Lead Bank Teller Supervisor - Regional Office,3,293.3333333333333,580.0,436.6666666666667
 job_title,Lead Bank Teller Supervisor - Reporting,3,293.3333333333333,580.0,436.6666666666667
-job_title,Senior Buyer @ Kohnan Cambodia,1,350.0,520.0,435.0
 job_title,Bank Teller - Branch Network,4,287.5,570.0,428.75
 job_title,Bank Teller Associate - Corporate,4,287.5,570.0,428.75
 job_title,Lead Bank Teller Specialist - Operations,4,287.5,570.0,428.75
 job_title,Lead Bank Teller Supervisor - Customer Experience,4,287.5,570.0,428.75
+job_title,Customer Service Representative Coordinator - Training,2,285.0,565.0,425.0
+job_title,"HR / General Affair @ Ykk Vietnam Co.,Ltd.",1,350.0,500.0,425.0
 job_title,Bank Teller - Development Programs,3,283.3333333333333,560.0,421.6666666666667
 job_title,Bank Teller - Procurement,3,283.3333333333333,560.0,421.6666666666667
 job_title,Bank Teller - Service Delivery,3,283.3333333333333,560.0,421.6666666666667
@@ -3255,7 +3258,6 @@ job_title,Customer Service Representative - Logistics,3,270.0,536.6666666666666,
 job_title,Customer Service Representative - Product,3,270.0,536.6666666666666,403.3333333333333
 job_title,Customer Service Representative - Technology,3,270.0,536.6666666666666,403.3333333333333
 job_title,Customer Service Representative Coordinator - Hospitality,3,270.0,536.6666666666666,403.3333333333333
-job_title,Customer Service Representative Coordinator - Training,3,270.0,536.6666666666666,403.3333333333333
 job_title,Lead Customer Service Representative - Field Operations,3,270.0,536.6666666666666,403.3333333333333
 job_title,Lead Customer Service Representative - Head Office,3,270.0,536.6666666666666,403.3333333333333
 job_title,Lead Customer Service Representative - Healthcare,3,270.0,536.6666666666666,403.3333333333333
@@ -3263,6 +3265,7 @@ job_title,Lead Customer Service Representative Associate - Development Programs,
 job_title,Lead Customer Service Representative Associate - Procurement,3,270.0,536.6666666666666,403.3333333333333
 job_title,Lead Customer Service Representative Associate - Service Delivery,3,270.0,536.6666666666666,403.3333333333333
 job_title,Account Officer ($300-$500),1,300.0,500.0,400.0
+job_title,"Admin Officer (Ch Speaker) @ Allnison Auditing And Consulting Co., Ltd",1,300.0,500.0,400.0
 job_title,CEO Assistant @ Seenergy Capital,1,400.0,400.0,400.0
 job_title,Senior Stock Officer ($300-$500),1,300.0,500.0,400.0
 job_title,Customer Service Representative - Sme,4,265.0,527.5,396.25
@@ -3277,7 +3280,6 @@ job_title,Customer Service Representative Coordinator - Development Programs,3,2
 job_title,Customer Service Representative Coordinator - Procurement,3,260.0,520.0,390.0
 job_title,Customer Service Representative Coordinator - Service Delivery,3,260.0,520.0,390.0
 job_title,Lead Customer Service Representative - Hospitality,3,260.0,520.0,390.0
-job_title,Lead Customer Service Representative - Training,3,260.0,520.0,390.0
 job_title,Lead Customer Service Representative Associate - Community Programs,3,260.0,520.0,390.0
 job_title,Lead Customer Service Representative Associate - Manufacturing,3,260.0,520.0,390.0
 job_title,Lead Customer Service Representative Associate - Partnerships,3,260.0,520.0,390.0
@@ -3337,7 +3339,9 @@ job_title,Admin Assistant Specialist - Retail,4,267.5,482.5,375.0
 job_title,Admin Assistant Supervisor - Operations,4,267.5,482.5,375.0
 job_title,Branch Admin Assistant - Sme,4,267.5,482.5,375.0
 job_title,Branch Admin Assistant Executive - Branch Network,4,267.5,482.5,375.0
+job_title,Junior Accountant ($300 - $450),1,300.0,450.0,375.0
 job_title,Senior Stock Controller ($300-$450),1,300.0,450.0,375.0
+job_title,Cost Controller,1,98.0,650.0,374.0
 job_title,Customer Service Representative - Compliance,4,250.0,497.5,373.75
 job_title,Customer Service Representative - Retail,4,250.0,497.5,373.75
 job_title,Customer Service Representative Coordinator - Operations,4,250.0,497.5,373.75
@@ -3355,7 +3359,6 @@ job_title,Lead Customer Service Representative - Technology,3,250.0,493.33333333
 job_title,Lead Customer Service Representative Associate - Hospitality,3,250.0,493.3333333333333,371.6666666666667
 job_title,Lead Customer Service Representative Associate - Training,3,250.0,493.3333333333333,371.6666666666667
 job_title,Admin Assistant Specialist - Hospitality,3,263.3333333333333,476.6666666666667,370.0
-job_title,Admin Assistant Specialist - Training,3,263.3333333333333,476.6666666666667,370.0
 job_title,Admin Assistant Supervisor - Community Programs,3,263.3333333333333,476.6666666666667,370.0
 job_title,Admin Assistant Supervisor - Manufacturing,3,263.3333333333333,476.6666666666667,370.0
 job_title,Admin Assistant Supervisor - Partnerships,3,263.3333333333333,476.6666666666667,370.0
@@ -3365,13 +3368,13 @@ job_title,Branch Admin Assistant - Healthcare,3,263.3333333333333,476.6666666666
 job_title,Branch Admin Assistant Executive - Development Programs,3,263.3333333333333,476.6666666666667,370.0
 job_title,Branch Admin Assistant Executive - Procurement,3,263.3333333333333,476.6666666666667,370.0
 job_title,Branch Admin Assistant Executive - Service Delivery,3,263.3333333333333,476.6666666666667,370.0
-job_title,Cost Controller,1,90.0,650.0,370.0
 job_title,Customer Service Representative - Corporate,4,247.5,490.0,368.75
 job_title,Customer Service Representative - Reporting,4,247.5,490.0,368.75
 job_title,Customer Service Representative Coordinator - Digital,4,247.5,490.0,368.75
 job_title,Lead Customer Service Representative - Customer Experience,4,247.5,490.0,368.75
 job_title,Lead Customer Service Representative Associate - Sme,4,247.5,490.0,368.75
 job_title,Lead Customer Service Representative - Regional Office,2,245.0,490.0,367.5
+job_title,Lead Customer Service Representative - Training,2,245.0,490.0,367.5
 job_title,Admin Assistant Specialist - Sme,4,260.0,470.0,365.0
 job_title,Admin Assistant Supervisor - Branch Network,4,260.0,470.0,365.0
 job_title,Branch Admin Assistant - Digital,4,260.0,470.0,365.0
@@ -3445,9 +3448,11 @@ job_title,Lead Customer Service Representative - Reporting,3,236.66666666666666,
 job_title,Lead Customer Service Representative Associate - Logistics,3,236.66666666666666,470.0,353.3333333333333
 job_title,Lead Customer Service Representative Associate - Product,3,236.66666666666666,470.0,353.3333333333333
 job_title,Lead Customer Service Representative Associate - Technology,3,236.66666666666666,470.0,353.3333333333333
+job_title,Account Receivable Officer ($300-$400),1,300.0,400.0,350.0
 job_title,Admin Assistant Specialist - Logistics,3,250.0,450.0,350.0
 job_title,Admin Assistant Specialist - Product,3,250.0,450.0,350.0
 job_title,Admin Assistant Specialist - Technology,3,250.0,450.0,350.0
+job_title,Admin Assistant Specialist - Training,2,250.0,450.0,350.0
 job_title,Admin Assistant Supervisor - Hospitality,3,250.0,450.0,350.0
 job_title,Admin Assistant Supervisor - Training,3,250.0,450.0,350.0
 job_title,Branch Admin Assistant - Business Support,3,250.0,450.0,350.0
@@ -3456,7 +3461,6 @@ job_title,Branch Admin Assistant - Quality,3,250.0,450.0,350.0
 job_title,Branch Admin Assistant Executive - Field Operations,3,250.0,450.0,350.0
 job_title,Branch Admin Assistant Executive - Head Office,3,250.0,450.0,350.0
 job_title,Branch Admin Assistant Executive - Healthcare,3,250.0,450.0,350.0
-job_title,"Customer Service Representative @ Elite Travel & Tours Co., Ltd.",1,300.0,400.0,350.0
 job_title,Admin Assistant Specialist - Customer Experience,4,250.0,445.0,347.5
 job_title,Admin Assistant Specialist - Regional Office,2,250.0,445.0,347.5
 job_title,Admin Assistant Supervisor - Sme,4,250.0,445.0,347.5
@@ -3492,166 +3496,144 @@ job_title,Branch Admin Assistant Executive - Quality,3,240.0,426.6666666666667,3
 job_title,Account Receivable Officer ($300-$350),1,300.0,350.0,325.0
 job_title,Sales In Showroom ($250-$350),1,250.0,350.0,300.0
 job_title,Wechat & Mini-Program $300,1,300.0,300.0,300.0
-job_title,Kitchen & Housekeeping Supervisor,1,71.0,500.0,285.5
+job_title,Kitchen & Housekeeping Supervisor,1,79.0,500.0,289.5
 job_title,Cashier ($200-$250),1,200.0,250.0,225.0
 job_title,ជំនួយការបច្ចេកទេសម៉ាស៊ីនថតចម្លង ($200-$250),1,200.0,250.0,225.0
 job_title,ជំនួយការផ្នែកលក់ និងទីផ្សារ ($200-$250),1,200.0,250.0,225.0
 job_title,About,1,,,
-job_title,Accounting Officer,1,,,
-job_title,Administrative Officer,1,,,
+job_title,Accountant,2,,,
+job_title,Accounting / Finance 22,1,,,
 job_title,Architect,1,,,
 job_title,Assistant Financial Controller,1,,,
 job_title,Assistant Project Manager,1,,,
 job_title,Azumaya Hotel,1,,,
 job_title,Bank / Mfi,1,,,
+job_title,"Bdlink (Cambodia) Co., Ltd",1,,,
+job_title,Business Development Manager,2,,,
 job_title,Card Officer_Night Shift (02 Positions In Phnom Penh And Sihanouk Vill...,1,,,
 job_title,Chinese Speaking,1,,,
-job_title,Clearing Officer (1 Position At Head Office In Phnom Penh),1,,,
 job_title,Client Acquisition Officer (20 Positions At Phnom Penh And Province Br...,1,,,
 job_title,Contact,1,,,
 job_title,Customer Consultant Officer,1,,,
+job_title,Customer Service Executive,1,,,
 job_title,Customer Service Officer,1,,,
 job_title,"Designer, Graphic Design",1,,,
 job_title,Dispute Resolution Officer (1 Position At Head Office In Phnom Penh),1,,,
+job_title,Ehs Officer,2,,,
+job_title,English Teachers (Native And Local Applicants),2,,,
 job_title,Finance Officer (04 Positions At Head Office In Phnom Penh),1,,,
 job_title,Front Desk (Morning Shift - 6.00Am To 2.30Pm),1,,,
 job_title,General Assistant,1,,,
 job_title,Ground Handling Administration Staff,1,,,
 job_title,HR & Admin Assistant (300-350),1,,,
-job_title,Head Of IT (1 Position),1,,,
 job_title,High Paid,1,,,
+job_title,Hospitalidade (Salão) Turnos Da Manhã Ou Noite,1,,,
 job_title,Hospitality And Tourism,1,,,
+job_title,"Hrinc (Cambodia) Co., Ltd",1,,,
+job_title,"Hrinc (Myanmar) Co., Ltd",1,,,
+job_title,"Hrinc Tac (Cambodia) Co., Ltd",1,,,
 job_title,IT (Technical Support) At Phnom Penh And Sihanouk Ville,1,,,
 job_title,IT Helpdesk Officer (1 Position At Head Office In Phnom Penh),1,,,
+job_title,IT Support,1,,,
+job_title,IT Support Officer (1 Position At Head Office In Phnom Penh),1,,,
 job_title,IT Support Officer (10 Positions In Phnom Penh And Provincial Branches...,1,,,
 job_title,Japanese Speaking,1,,,
 job_title,Job Posting Service,1,,,
+job_title,Job Tools And Templates,1,,,
 job_title,Legal Officer (1 Position At Head Office In Phnom Penh),1,,,
-job_title,Legal Officer (2 Positions At Head Office In Phnom Penh),1,,,
 job_title,Loan Admin Officer (5 Positions In Phnom Penh And Provincial Branches),1,,,
+job_title,Logistics Officer,2,,,
 job_title,Management,1,,,
-job_title,"Officer, Warehouse",1,,,
+job_title,News And Events,1,,,
+job_title,"Officer, Procurement & Logistics",1,,,
+job_title,Payment Methods,1,,,
 job_title,Phnom Penh,1,,,
 job_title,Ppsez,1,,,
+job_title,Procurement Officer,2,,,
 job_title,"Project Engineer @ Branch Of Mitsubishi Elevator (Thailand) Co., Ltd.",1,,,
 job_title,Project Officer (02 Positions At Head Office In Phnom Penh),1,,,
+job_title,Purchasing Officer (2 Positions At Head Office In Phnom Penh),1,,,
+job_title,Questions & Answers,1,,,
 job_title,Recruitment Executive,1,,,
 job_title,Recruitment Officer,1,,,
 job_title,Recruitment Officer (02 Positions At Head Office In Phnom Penh),1,,,
 job_title,Recruitment Officer (02 Positions At Head Office),1,,,
 job_title,Recruitment Officer (2 Positions At Head Office),1,,,
 job_title,Regional Administrator (1 Position At Head Office In Phnom Penh),1,,,
-job_title,"Senior Executive, Business Relationship",1,,,
+job_title,Relationship Manager ( 09 Positions In Phnom Penh And Provincial Branc...,1,,,
+job_title,Retail Mall Leasing Executive (English & Chinese Speaking),1,,,
 job_title,"Senior Executive, Contact Center",1,,,
+job_title,Shift Electrician,2,,,
 job_title,Site Supervisor (02 Positions At Head Office In Phnom Penh),1,,,
+job_title,Solution Architecture (Pre-Sale),2,,,
 job_title,Spa Receptionist,1,,,
 job_title,"Staff, Legal Affair Unit",1,,,
-job_title,Teller,1,,,
+job_title,System Specialist,2,,,
 job_title,Toyota Tsusho Finance (Cambodia) Plc.,1,,,
 job_title,Travel / Hospitality,1,,,
-job_title,Waiter/Waitress,1,,,
+job_title,Vacancies List,1,,,
 job_title,អត្ថបទ និង ការងារ,1,,,
 job_title,ឱកាសការងារ ៤០តំណែងសម្រាប់ខែតុលា,1,,,
 job_title,ឱកាសការងារបន្ទាន់ ៣តំណែង,1,,,
 job_title,ឱកាសការងារ១២តំណែងសម្រាប់អ្នកចេះភាសាជប៉ុន,1,,,
 job_title,ឱកាសការងារ២០តំណែងផ្នែក(Logistics),1,,,
-location,"General Manager @ ELITE TRAVEL & TOURS CO., LTD. 4000-5000 CamUp Job Travel / Hospitality Phnom Penh 8 days ago",1,4000.0,5000.0,4500.0
-location,Brand Manager @ Mixue Ice Cream & Tea 2000 - Negotiable based on experience and ability CamUp Job Franchise F&B Chain Industry Phnom Penh 7 days ago,1,2000.0,2000.0,2000.0
-location,Sales Manager (Leisure) @ Sun and Moon Hotel Group 1000-1200 CamUp Job Travel / Hospitality Phnom Penh 1 days ago,1,1000.0,1200.0,1100.0
-location,Assistant CEO & Store Manager @ Confidential 800 - 1200 CamUp Job Retail Phnom Penh 4 days ago,1,800.0,1200.0,1000.0
-location,"Senior Marketing Executive @ ELITE TRAVEL & TOURS CO., LTD. 800-1200 CamUp Job Travel / Hospitality Phnom Penh 7 days ago",1,800.0,1200.0,1000.0
-location,"Sales Support & Data Analysis @ Avery Dennison RBIS-Cambodia Co., Ltd 800 - 1000 CamUp Job Textiles and Garment PPSEZ 1 days ago",1,800.0,1000.0,900.0
-location,"Human Resources Supervisor @ Ajinomoto (Cambodia) Co., Ltd. 800 - Negotiable based on candidate’s experience and skills. CamUp Job FMCG manufacturing Phnom Penh 1 days ago",1,800.0,800.0,800.0
-location,"Japanese Translator @ Heiko Asia (Cambodia) Co., Ltd. 800 CamUp Job Manufacturing / Factory Phnom Penh 7 days ago",1,800.0,800.0,800.0
-location,Kampot,302,490.86092715231786,1033.476821192053,762.1688741721854
-location,Phnom Penh - Chamkarmon,303,490.36303630363034,1031.9141914191418,761.1386138613861
-location,Kampong Chhnang,303,490.42904290429044,1031.5511551155116,760.990099009901
-location,Kratie,301,489.56810631229234,1029.9667774086379,759.7674418604652
-location,Pursat,302,489.63576158940396,1029.569536423841,759.6026490066225
-location,Siem Reap,303,489.2409240924092,1029.1749174917493,759.2079207920792
-location,"Hybrid, Phnom Penh",302,489.03973509933775,1028.4437086092714,758.7417218543046
-location,Phnom Penh - Chbar Ampov,302,488.94039735099335,1028.4437086092714,758.6920529801324
-location,Kampong Cham,301,488.80398671096344,1028.5714285714287,758.687707641196
-location,Tbong Khmum,302,489.13907284768214,1028.046357615894,758.5927152317881
-location,Stung Treng,302,488.41059602649005,1027.2516556291391,757.8311258278146
-location,"Poipet, Banteay Meanchey",299,488.12709030100336,1027.123745819398,757.6254180602007
-location,Sihanoukville Special Economic Zone,301,487.4750830564784,1025.282392026578,756.3787375415283
-location,"Sales staff @ ASIA KDC ENGINEERING CO., LTD 500-1000 CamUp Job Construction / Building Phnom Penh 5 days ago",1,500.0,1000.0,750.0
-location,Pailin,303,480.6930693069307,1011.4851485148515,746.0891089108911
-location,Siem Reap City,303,480.13201320132015,1010.6270627062706,745.3795379537954
-location,Oddar Meanchey,302,480.0993377483444,1010.5960264900663,745.3476821192053
-location,Kandal - Takhmao,302,479.8675496688742,1010.3973509933775,745.1324503311258
-location,"Ocean Freight Operation Manager 1100 - 1400 Yusen Logistics (Cambodia) Co. Logistics , Trading / Distribution , Wholesale / Retail Phnom Penh 90 days ago",1,90.0,1400.0,745.0
-location,Kep,304,479.6381578947368,1009.671052631579,744.6546052631579
-location,Phnom Penh - Daun Penh,302,479.50331125827813,1008.0132450331126,743.7582781456954
-location,Phnom Penh - Sen Sok,304,479.14473684210526,1007.5986842105264,743.3717105263158
-location,Prey Veng,304,479.04605263157896,1006.8421052631579,742.9440789473684
-location,Ratanakiri,302,478.6423841059603,1006.7549668874173,742.6986754966888
-location,Takeo,302,478.5430463576159,1006.523178807947,742.5331125827814
-location,Battambang,303,478.41584158415844,1005.7755775577558,742.0957095709571
-location,Kampong Speu,304,478.2236842105263,1005.7236842105264,741.9736842105264
-location,Kandal,304,478.1578947368421,1005.0657894736842,741.6118421052631
-location,Merchandising Purchaser @ Kohnan Cambodia 550 - 930 CamUp Job Retail Phnom Penh 13 days ago,1,550.0,930.0,740.0
-location,Koh Kong,303,472.4092409240924,999.009900990099,735.7095709570957
-location,Preah Vihear,303,472.14521452145215,998.1188118811881,735.1320132013201
-location,Phnom Penh,301,472.1262458471761,998.0730897009967,735.0996677740864
-location,"Multiple provinces, Cambodia",303,472.2112211221122,997.7887788778878,735.0
-location,Battambang City,303,472.1122112211221,997.7557755775578,734.9339933993399
-location,"Remote, Cambodia",303,471.84818481848185,997.3927392739274,734.6204620462046
-location,Mondulkiri,304,471.875,997.203947368421,734.5394736842105
-location,Kampong Thom,303,471.7161716171617,996.996699669967,734.3564356435644
-location,Svay Rieng,303,471.35313531353137,996.8646864686468,734.1089108910891
-location,Sihanoukville,303,470.9240924092409,995.7425742574258,733.3333333333334
-location,Phnom Penh - Mean Chey,304,471.05263157894734,995.2631578947369,733.1578947368421
-location,Phnom Penh - Toul Kork,304,470.5263157894737,994.9342105263158,732.7302631578947
-location,Banteay Meanchey,304,470.5921052631579,994.8026315789474,732.6973684210526
-location,"Travel Content Creator / Internal Key Opinion Leader @ ELITE TRAVEL & TOURS CO., LTD. 600-800 Travel / Hospitality Phnom Penh 7 days ago",1,600.0,800.0,700.0
-location,Loan Officer / Supervisor 1000 - 1200 Toyota Tsusho Finance (Cambodia) Plc. Finance and Insurance Phnom Penh 90 days ago,1,90.0,1200.0,645.0
-location,"Supply Control Leaders @ Fineplas (Cambodia) Co., Ltd. Nego - Up to $600 CamUp Job Manufacturing / Factory Phnom Penh 12 days ago",1,600.0,600.0,600.0
-location,Assistance Brand Manager @ Mixue Ice Cream & Tea 500 - 600( open for nego based on candidate ability) CamUp Job Franchise F&B Chain Industry Phnom Penh 7 days ago,1,500.0,600.0,550.0
-location,"Retail Tour Sales Executive @ ELITE TRAVEL & TOURS CO., LTD. 400-700 CamUp Job Travel / Hospitality Phnom Penh 7 days ago",1,400.0,700.0,550.0
-location,"Business Development Officer / Supervisor (Chinese Speaking) @ Ben Line Integrated Logistics (Cambodia) Co., Ltd. 500 - Negotiable based on experience and ability CamUp Job Logistics / Freight Forwarding / Integrated Logistics Phnom Penh 6 days ago",1,500.0,500.0,500.0
-location,Senior Buyer @ Kohnan Cambodia 350-520 CamUp Job Retail Phnom Penh 8 days ago,1,350.0,520.0,435.0
-location,CEO Assistant @ Seenergy Capital 400 - Negotiable based on experience and ability CamUp Job Investment Phnom Penh 4 days ago,1,400.0,400.0,400.0
-location,"Phnom Penh, Phnom Penh, Cambodia",45,320.8333333333333,450.0,385.4166666666667
-location,Cost Controller 500 - 650 Sun and Moon Hotel Group Hospitality and Tourism Phnom Penh 90 days ago,1,90.0,650.0,370.0
-location,"Customer Service Representative @ ELITE TRAVEL & TOURS CO., LTD. 300-400 CamUp Job Travel / Hospitality Phnom Penh 7 days ago",1,300.0,400.0,350.0
-location,Kitchen & Housekeeping Supervisor 350 - 500 Azumaya Hotel Hospitality and Tourism Phnom Penh 71 days ago,1,71.0,500.0,285.5
-location,Assistant Financial Controller 1500 - 1800 Hospitality and Tourism Phnom Penh 90 days ago,1,,,
-location,Cambodia,20,,,
-location,"Kandal, Kampot, Cambodia",1,,,
-location,"Preaek Hour, Kandal, Cambodia",2,,,
-location,"Project Engineer @ Branch of Mitsubishi Elevator (Thailand) Co., Ltd. Nego - Nego (Depending on skill and experience) CamUp Job Construction / Building Phnom Penh 7 days ago",1,,,
-location,"Sen Sokh, Phnom Penh, Cambodia",1,,,
-skill,API Development,395,809.5949367088608,1819.0886075949368,1314.3417721518988
-skill,Git,395,809.5949367088608,1819.0886075949368,1314.3417721518988
-skill,JavaScript,395,809.5949367088608,1819.0886075949368,1314.3417721518988
-skill,Python,789,751.2167300380228,1651.7110266159696,1201.463878326996
-skill,SQL,789,751.2167300380228,1651.7110266159696,1201.463878326996
-skill,Statistics,788,699.8223350253808,1498.9213197969543,1099.3718274111675
-skill,Data Cleaning,394,692.6903553299493,1483.9086294416243,1088.2994923857868
-skill,Data Collection,789,663.2699619771863,1425.0950570342206,1044.1825095057034
-skill,Power BI,1183,673.2206255283178,1412.5697379543533,1042.8951817413356
-skill,Data Visualization,789,656.3751584283904,1361.9518377693282,1009.1634980988593
-skill,Project Management,395,619.6962025316456,1336.4810126582279,978.0886075949367
-skill,Teaching,395,514.3291139240506,1240.1518987341772,877.2405063291139
-skill,Sales,1975,533.5949367088608,1163.8784810126583,848.7367088607594
-skill,Accounting,797,534.1361916771752,1043.7704918032787,788.953341740227
-skill,Leadership,5907,506.3913632514818,1063.182049110923,784.7867061812024
-skill,CRM,1186,480.91905564924116,1058.5160202360878,769.7175379426644
-skill,English,3554,477.59144625773774,1036.7867191896455,757.1890827236916
-skill,Network Support,859,495.0291036088475,1019.1385331781141,757.0838183934808
-skill,Excel,6276,489.75621414913957,1016.7782026768642,753.2672084130019
-skill,Reporting,11803,480.0127086333983,1011.353893078031,745.6833008557146
-skill,Logistics,1512,473.8476821192053,973.9006622516556,723.8741721854304
-skill,Communication,6302,453.767058076801,981.7645192002539,717.7657886385274
-skill,Procurement,735,469.08843537414964,962.7891156462586,715.9387755102041
-skill,Problem Solving,789,482.3320659062104,940.4182509505704,711.3751584283904
-skill,Finance,1903,451.44743792921287,924.553618594823,688.000528262018
-skill,Digital Marketing,782,405.10230179028133,908.8235294117648,656.962915601023
-skill,QuickBooks,394,450.0507614213198,850.1015228426396,650.0761421319797
-skill,Adobe Illustrator,395,400.0,900.0,650.0
-skill,Adobe Photoshop,395,400.0,900.0,650.0
-skill,Graphic Design,396,400.0,900.0,650.0
-skill,Microsoft Office,3141,407.7172874880611,809.1754218401783,608.4463546641197
-skill,Customer Service,1977,371.89777327935224,771.1386639676114,571.5182186234817
+location,Kampong Chhnang,301,490.93023255813955,1033.189368770764,762.0598006644518
+location,Kampot,301,490.2990033222591,1032.890365448505,761.594684385382
+location,Pursat,301,489.63455149501664,1029.7674418604652,759.7009966777408
+location,Kratie,300,489.56666666666666,1029.4666666666667,759.5166666666667
+location,Tbong Khmum,300,489.73333333333335,1029.2333333333333,759.4833333333333
+location,Kampong Cham,299,488.2608695652174,1027.0234113712374,757.6421404682275
+location,Stung Treng,301,487.57475083056477,1025.3820598006644,756.4784053156146
+location,Siem Reap,603,484.90878938640134,1020.3482587064676,752.6285240464344
+location,Sihanoukville,602,480.5481727574751,1012.5415282392026,746.5448504983389
+location,Oddar Meanchey,301,480.56478405315613,1011.5282392026578,746.046511627907
+location,Banteay Meanchey,600,479.75,1011.8166666666667,745.7833333333333
+location,Kep,303,479.86798679867985,1010.1650165016501,745.016501650165
+location,Kandal,607,479.73553719008265,1008.4462809917355,744.0909090909091
+location,Phnom Penh,2484,480.22163265306125,1007.2489795918367,743.735306122449
+location,Ratanakiri,301,479.03654485049833,1007.7408637873754,743.3887043189369
+location,Pailin,301,479.06976744186045,1007.5083056478405,743.2890365448505
+location,Prey Veng,302,478.87417218543044,1006.6556291390729,742.7649006622516
+location,Takeo,300,478.3,1006.4,742.35
+location,Kampong Speu,303,476.8646864686469,1002.5082508250825,739.6864686468647
+location,Battambang,604,475.5223880597015,1002.2056384742951,738.8640132669983
+location,Koh Kong,302,473.0132450331126,1000.5629139072847,736.7880794701987
+location,"Remote, Cambodia",302,472.317880794702,998.1788079470199,735.2483443708609
+location,Preah Vihear,302,471.95364238410593,997.9139072847682,734.933774834437
+location,Mondulkiri,303,472.1122112211221,997.6567656765676,734.8844884488449
+location,Kampong Thom,302,471.95364238410593,997.615894039735,734.7847682119206
+location,Svay Rieng,302,471.3245033112583,996.9867549668874,734.1556291390729
+location,"Multiple provinces, Cambodia",301,471.2292358803987,995.5481727574751,733.3887043189369
+location,Cambodia,49,,,
+skill,API Development,393,809.4910941475827,1818.854961832061,1314.1730279898218
+skill,Git,393,809.4910941475827,1818.854961832061,1314.1730279898218
+skill,JavaScript,393,809.4910941475827,1818.854961832061,1314.1730279898218
+skill,Python,786,751.0432569974555,1651.2849872773536,1201.1641221374045
+skill,SQL,786,751.0432569974555,1651.2849872773536,1201.1641221374045
+skill,Statistics,786,699.7328244274809,1498.7277353689567,1099.230279898219
+skill,Data Cleaning,393,692.5954198473282,1483.7150127226464,1088.1552162849873
+skill,Data Collection,787,663.151207115629,1424.828462515883,1043.989834815756
+skill,Power BI,1179,673.2824427480916,1412.7396098388465,1043.011026293469
+skill,Data Visualization,786,656.4885496183206,1362.2391857506361,1009.3638676844784
+skill,Project Management,395,619.5431472081218,1336.1421319796955,977.8426395939086
+skill,Teaching,393,514.1984732824427,1239.8473282442749,877.0229007633587
+skill,Sales,1974,534.2051802945658,1163.864906043677,849.0350431691214
+skill,Accounting,802,534.2939698492462,1041.394472361809,787.8442211055276
+skill,Leadership,5888,506.3795037389531,1063.0438477226376,784.7116757307954
+skill,CRM,1180,480.771186440678,1058.1864406779662,769.478813559322
+skill,English,3541,477.5409836065574,1036.6647823629169,757.1028829847371
+skill,Network Support,857,494.8891481913652,1018.9381563593932,756.9136522753793
+skill,Excel,6251,489.8144296912494,1016.9284914413694,753.3714605663093
+skill,Reporting,11753,479.99489492044586,1011.3188122181571,745.6568535693015
+skill,Logistics,1510,474.43426294820716,974.4555112881806,724.444887118194
+skill,Communication,6278,453.73426796240244,981.679146088896,717.7067070256492
+skill,Procurement,739,469.15416098226467,962.9740791268758,716.0641200545703
+skill,Problem Solving,786,482.21374045801525,940.1653944020356,711.1895674300255
+skill,Finance,1903,451.68498942917546,924.1384778012686,687.911733615222
+skill,Digital Marketing,780,405.9230769230769,909.7179487179487,657.8205128205128
+skill,Adobe Illustrator,393,400.10178117048343,900.2544529262086,650.178117048346
+skill,Adobe Photoshop,393,400.10178117048343,900.2544529262086,650.178117048346
+skill,Graphic Design,394,400.10178117048343,900.2544529262086,650.178117048346
+skill,QuickBooks,393,450.10178117048343,850.2035623409669,650.1526717557252
+skill,Microsoft Office,3128,407.6854219948849,809.111253196931,608.398337595908
+skill,Customer Service,1968,371.9786368260427,771.4292980671414,571.7039674465921

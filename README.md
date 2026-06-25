@@ -117,6 +117,14 @@ The skill relationship dataset includes:
 - `job_id`
 - `skill`
 
+## Location Standardization
+
+To enable consistent geographical grouping in Power BI, the pipeline standardizes Cambodian locations:
+- **Phnom Penh Districts**: Sub-districts and districts (e.g., *Toul Kork*, *Chamkarmon*, *BKK*, *Sen Sok*, *Mean Chey*) are mapped to `Phnom Penh`.
+- **Provincial Municipalities**: Cities and towns in provinces (e.g., *Poipet*, *Sisophon*) are mapped to their respective provinces (e.g., `Banteay Meanchey`).
+- **Other Provinces**: Inconsistent spellings or Romanization variations (e.g., *Phnum Penh*, *Siemreap*, *Mondul kiri*) are normalized to standard Cambodian province names.
+- **Remote / Multiple**: Postings labeled as remote or multi-provincial are normalized to `Remote, Cambodia` and `Multiple provinces, Cambodia`.
+
 ## Installation With uv
 
 Create the virtual environment and install dependencies:
@@ -163,10 +171,16 @@ pip install -r requirements.txt
 
 ## How to Run Locally
 
-From the project folder:
+From the project folder, run using **uv**:
 
 ```bash
 uv run python main.py
+```
+
+Or using **standard python** (after activating your virtual environment):
+
+```bash
+python main.py
 ```
 
 The pipeline runs:
@@ -180,14 +194,21 @@ The pipeline runs:
 To skip PostgreSQL:
 
 ```bash
+# With uv:
 uv run python main.py --skip-database
+
+# With standard python:
+python main.py --skip-database
 ```
 
 To force sample data only:
 
 ```powershell
 $env:SCRAPER_MODE="sample"
+# With uv:
 uv run python main.py --skip-database
+# With standard python:
+python main.py --skip-database
 ```
 
 By default, the local pipeline targets about `12,000` rows:
@@ -200,7 +221,10 @@ To generate a different dataset size, change the total target:
 
 ```powershell
 $env:SCRAPER_TARGET_TOTAL_RECORDS="15000"
+# With uv:
 uv run python main.py --skip-database
+# With standard python:
+python main.py --skip-database
 ```
 
 The pipeline spreads that target across all configured sources and tops up with clean generated Cambodia records when live scraping is blocked.
@@ -208,7 +232,11 @@ The pipeline spreads that target across all configured sources and tops up with 
 To reuse an existing raw CSV:
 
 ```bash
+# With uv:
 uv run python main.py --skip-scrape --skip-database
+
+# With standard python:
+python main.py --skip-scrape --skip-database
 ```
 
 ## Web Scraping Notes
@@ -324,32 +352,41 @@ The following files are created in `data/powerbi/`:
 
 ## Importing into Power BI
 
-Option 1: CSV import
+### Option 1: Open the Pre-built Dashboard (Recommended)
+
+A pre-built Power BI dashboard [Dashboard.pbix](file:///d:/ITC/I4/Semester%202/Data%20Visualization/Project%20Viz/job-market-analysis/Dashboard.pbix) is included in the project root.
+To configure it with your local data:
+1. Open [Dashboard.pbix](file:///d:/ITC/I4/Semester%202/Data%20Visualization/Project%20Viz/job-market-analysis/Dashboard.pbix) in Power BI Desktop.
+2. Click **Transform Data > Data source settings**.
+3. Select the CSV files and change their file paths to point to your local absolute path under `data/powerbi/` (e.g., `d:\ITC\I4\Semester 2\Data Visualization\Project Viz\job-market-analysis\data\powerbi\`).
+4. Click **Close & Apply** and then **Refresh** to load the data.
+
+### Option 2: CSV Import from scratch
 
 1. Open Power BI Desktop.
 2. Select **Get Data**.
 3. Choose **Text/CSV**.
 4. Import all CSV files from `data/powerbi/`.
-5. Use `powerbi/model_setup.md` to create relationships and set data types.
+5. Use [model_setup.md](file:///d:/ITC/I4/Semester%202/Data%20Visualization/Project%20Viz/job-market-analysis/powerbi/model_setup.md) to create relationships and set data types.
 
-Option 2: Power Query setup
+### Option 3: Power Query setup
 
 1. Open Power BI Desktop.
 2. Select **Transform data**.
 3. Create a blank query.
-4. Use `powerbi/power_query_queries.pq` as the Power Query M reference.
-5. Use `powerbi/dax_measures.md` for starter dashboard measures.
+4. Use [power_query_queries.pq](file:///d:/ITC/I4/Semester%202/Data%20Visualization/Project%20Viz/job-market-analysis/powerbi/power_query_queries.pq) as the Power Query M reference.
+5. Use [dax_measures.md](file:///d:/ITC/I4/Semester%202/Data%20Visualization/Project%20Viz/job-market-analysis/powerbi/dax_measures.md) for starter dashboard measures.
 
-Option 3: PostgreSQL direct connection
+### Option 4: PostgreSQL Direct Connection
 
-1. Load PostgreSQL with `uv run python main.py` or `uv run python main.py --skip-scrape`.
+1. Load PostgreSQL with `uv run python main.py` / `python main.py` or by adding `--skip-scrape`.
 2. Open Power BI Desktop.
 3. Select **Get Data > PostgreSQL database**.
 4. Server: `localhost:5433` for Docker, or `localhost:5432` for native PostgreSQL.
 5. Database: `cambodia_job_market_analysis`.
 6. Load base tables (`jobs`, `skills`, `job_skills`) or the summary views.
-7. Use `powerbi/postgresql_power_query.pq` as a Power Query reference if you prefer M code.
-8. If Power BI shows table names like `public jobs`, use DAX formulas from `powerbi/dax_measures_postgresql.md`.
+7. Use [postgresql_power_query.pq](file:///d:/ITC/I4/Semester%202/Data%20Visualization/Project%20Viz/job-market-analysis/powerbi/postgresql_power_query.pq) as a Power Query reference if you prefer M code.
+8. If Power BI shows table names like `public jobs`, use the DAX formulas from [dax_measures_postgresql.md](file:///d:/ITC/I4/Semester%202/Data%20Visualization/Project%20Viz/job-market-analysis/powerbi/dax_measures_postgresql.md) or [dax_measures_powerbi_views.md](file:///d:/ITC/I4/Semester%202/Data%20Visualization/Project%20Viz/job-market-analysis/powerbi/dax_measures_powerbi_views.md).
 
 Create relationships:
 
@@ -472,7 +509,6 @@ Possible insights from the generated or scraped data:
 - Store raw HTML snapshots for auditability.
 - Improve skill extraction with NLP.
 - Add historical scraping to analyze job market trends over time.
-- Add a Power BI `.pbix` template.
 - Add geocoding for more accurate map visuals.
 
 ## Ethical and Legal Notes
